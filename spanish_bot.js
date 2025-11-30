@@ -74,9 +74,9 @@ async function main() {
 
   const message = `
 **🇪🇸 Palabra del Día en Español**
-**> ${spanish.word}**: ${spanish.definition}
-**> Sinónimos**: ${spanish.synonym}
-**> Ejemplo**: ${spanish.example}
+> **${spanish.word}**: ${spanish.definition}
+> **Sinónimos**: ${spanish.synonym}
+> **Ejemplo**: ${spanish.example}
   `.trim();
 
   await sendToDiscord(message);
