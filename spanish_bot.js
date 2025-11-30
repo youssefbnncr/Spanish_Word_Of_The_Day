@@ -73,7 +73,7 @@ async function main() {
   const spanish = await getRandomWord();
 
   const message = `
-**🇪🇸 Palabra del Día en Español**
+**🇪🇸 Palabra del Día en Español:**
 > **${spanish.word}**: ${spanish.definition}
 > **Sinónimos**: ${spanish.synonym}
 > **Ejemplo**: ${spanish.example}
