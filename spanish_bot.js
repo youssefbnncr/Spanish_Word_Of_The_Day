@@ -25,8 +25,8 @@ try {
 // ---------------------
 // 2. **MODIFIED**: Renamed function and removed language filter
 async function getRandomWord() {
-  const wordsForLang = **wordData**; // Use the entire loaded array
-    
+  const wordsForLang = wordData; // Use the entire loaded array
+
   if (wordsForLang.length === 0) {
     console.error("No words found in the JSON file.");
     return {
@@ -70,7 +70,7 @@ async function sendToDiscord(message) {
 // ---------------------
 async function main() {
   // 3. **MODIFIED**: Called the renamed function
-  const spanish = await **getRandomWord**();
+  const spanish = await getRandomWord();
 
   const message = `
 **🇪🇸 Spanish Word Of The Day**
