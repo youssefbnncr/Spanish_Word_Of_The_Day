@@ -3,88 +3,191 @@ import fetch from "node-fetch";
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 // ---------------------
-//   HELPER FUNCTION TO RETRY UNTIL VALID DEFINITION
+//   HARDCODED WORD DATA (Option 1 Solution)
+// ---------------------
+const wordData = [
+  // --- English Words ---
+  {
+    language: "en",
+    word: "Ephemeral",
+    definition: "Lasting for a very short time.",
+    example: "The beauty of a sunset is often considered ephemeral.",
+    synonym: "Transient",
+  },
+  {
+    language: "en",
+    word: "Mellifluous",
+    definition: "A sound that is sweet and musical; pleasant to hear.",
+    example: "The singer's mellifluous voice captivated the audience.",
+    synonym: "Dulcet",
+  },
+  {
+    language: "en",
+    word: "Ubiquitous",
+    definition: "Present, appearing, or found everywhere.",
+    example: "In the modern age, smartphones have become ubiquitous.",
+    synonym: "Omnipresent",
+  },
+  {
+    language: "en",
+    word: "Serendipity",
+    definition:
+      "The occurrence and development of events by chance in a happy or beneficial way.",
+    example:
+      "It was pure serendipity that she found the exact book she needed in a tiny, obscure shop.",
+    synonym: "Chance",
+  },
+  {
+    language: "en",
+    word: "Quixotic",
+    definition: "Exceedingly idealistic; unrealistic and impractical.",
+    example:
+      "Launching a mission to Mars with only amateur equipment was a quixotic venture.",
+    synonym: "Impractical",
+  },
+  {
+    language: "en",
+    word: "Languid",
+    definition:
+      "Displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
+    example: "They spent a languid afternoon by the pool, sipping lemonade.",
+    synonym: "Lethargic",
+  },
+  {
+    language: "en",
+    word: "Susurrus",
+    definition: "A whispering, rustling, or murmuring sound.",
+    example:
+      "The only sound was the gentle susurrus of the breeze through the leaves.",
+    synonym: "Whispering",
+  },
+  {
+    language: "en",
+    word: "Capricious",
+    definition:
+      "Given to sudden and unaccountable changes of mood or behavior.",
+    example:
+      "The weather in the mountains is notoriously capricious, changing every few hours.",
+    synonym: "Fickle",
+  },
+  {
+    language: "en",
+    word: "Ebullient",
+    definition: "Cheerful and full of energy.",
+    example:
+      "The team was in an ebullient mood after winning the championship.",
+    synonym: "Jubilant",
+  },
+  {
+    language: "en",
+    word: "Ineffable",
+    definition: "Too great or extreme to be expressed or described in words.",
+    example: "The beauty of the aurora borealis was simply ineffable.",
+    synonym: "Indescribable",
+  },
+
+  // --- Spanish Words ---
+  {
+    language: "es",
+    word: "Efímero",
+    definition: "Que dura por muy poco tiempo.",
+    example: "La belleza de las flores es efímera, dura solo unos días.",
+    synonym: "Pasajero",
+  },
+  {
+    language: "es",
+    word: "Inefable",
+    definition: "Que no puede explicarse con palabras.",
+    example:
+      "Sintió una alegría inefable al ver a su familia después de tanto tiempo.",
+    synonym: "Indescriptible",
+  },
+  {
+    language: "es",
+    word: "Taciturno",
+    definition: "Callado, silencioso, reservado.",
+    example:
+      "Después de la noticia, el hombre se quedó taciturno durante toda la cena.",
+    synonym: "Melancólico",
+  },
+  {
+    language: "es",
+    word: "Hilarante",
+    definition: "Que inspira gran alegría o produce una risa ruidosa.",
+    example:
+      "La comedia de anoche fue tan hilarante que me dolía el estómago de tanto reír.",
+    synonym: "Gracioso",
+  },
+  {
+    language: "es",
+    word: "Recíproco",
+    definition: "Que se da o se dirige a otro, y a la vez se recibe de él.",
+    example: "La admiración entre los dos artistas era recíproca.",
+    synonym: "Mutuo",
+  },
+  {
+    language: "es",
+    word: "Efervescente",
+    definition: "Que produce burbujas; fig., que es animado o entusiasta.",
+    example: "La ciudad se vuelve efervescente durante las fiestas de verano.",
+    synonym: "Espumoso",
+  },
+  {
+    language: "es",
+    word: "Ineludible",
+    definition: "Que no se puede evitar.",
+    example:
+      "El pago de impuestos es un compromiso ineludible para todo ciudadano.",
+    synonym: "Obligatorio",
+  },
+  {
+    language: "es",
+    word: "Sempiterno",
+    definition: "Que durará siempre; que no tendrá fin.",
+    example: "La creencia en el amor sempiterno es muy romántica.",
+    synonym: "Eterno",
+  },
+  {
+    language: "es",
+    word: "Inopinado",
+    definition: "Que sucede sin haber sido pensado o previsto.",
+    example: "La lluvia inopinada arruinó la barbacoa al aire libre.",
+    synonym: "Imprevisto",
+  },
+  {
+    language: "es",
+    word: "Perenne",
+    definition: "Permanente, constante, que dura mucho tiempo.",
+    example: "El roble es un árbol perenne que conserva sus hojas todo el año.",
+    synonym: "Constante",
+  },
+];
+
+// ---------------------
+//   HELPER FUNCTION TO GET VALID DEFINITION (NOW PULLS FROM ARRAY)
 // ---------------------
 async function getValidWord(language) {
-  const urlWordApi =
-    language === "en"
-      ? "https://random-word-api.herokuapp.com/word"
-      : "https://random-word-api.herokuapp.com/word?lang=es";
+  // Filter the array to get only words for the desired language
+  const wordsForLang = wordData.filter((w) => w.language === language);
 
-  // *** FIX APPLIED HERE: Changed the Spanish dictionary URL to use the Spanish endpoint ***
-  const urlDictApi = (word) =>
-    language === "en"
-      ? `https://api.dictionaryapi.dev/api/v2/entries/en/${word}`
-      : `https://api.dictionaryapi.dev/api/v2/entries/es/${word}`; // This endpoint is correct, but coverage might be the issue. Let's stick with it for now and optimize the search/parsing logic.
+  // Select a random index
+  const randomIndex = Math.floor(Math.random() * wordsForLang.length);
 
-  let retries = 0;
-  while (retries < 10) {
-    // try max 10 times
-    try {
-      const wordRes = await fetch(urlWordApi);
-      const [word] = await wordRes.json();
+  // Return the selected word object
+  const wordObject = wordsForLang[randomIndex];
 
-      const dictRes = await fetch(urlDictApi(word));
-      const dictData = await dictRes.json();
-
-      // Check if the response is an error object (which happens when no entry is found)
-      if (dictData.title === "No Definitions Found") {
-        throw new Error("No entry found in dictionary");
-      }
-
-      // ** OPTIMIZED PARSING: Accessing the first result, which is an object in the array **
-      const entryData = dictData[0];
-
-      // The structure for Spanish might be slightly different. We will check the first meaning.
-      const firstMeaning = entryData?.meanings?.[0];
-
-      // Find the definition.
-      const definition = firstMeaning?.definitions?.[0]?.definition;
-      if (!definition) throw new Error("No definition");
-
-      // Find example and synonym. Spanish synonyms might be in a different place.
-      const example =
-        firstMeaning?.definitions?.[0]?.example || "No example available.";
-
-      // Spanish synonyms are usually listed at the meaning level or definition level.
-      const synonym =
-        firstMeaning?.synonyms?.[0] ||
-        firstMeaning?.definitions?.[0]?.synonyms?.[0] ||
-        "None";
-
-      return { word, definition, example, synonym };
-    } catch (err) {
-      console.log(
-        `Failed to get valid word (Attempt ${retries + 1}):`,
-        err.message
-      );
-      retries++;
-      continue; // try another word
-    }
-  }
-
-  // fallback if no valid word found after 10 retries
-  // These words are added for better robustness, as the previous ones may also fail.
   return {
-    word: language === "en" ? "typify" : "estético",
-    definition:
-      language === "en"
-        ? "To be characteristic of; to represent."
-        : "Perteneciente o relativo a la percepción o apreciación de la belleza.",
-    example:
-      language === "en"
-        ? "The artist's later works typify the cubist movement."
-        : "El pintor buscaba un efecto estético en la composición.",
-    synonym: language === "en" ? "embody" : "bello",
+    word: wordObject.word,
+    definition: wordObject.definition,
+    example: wordObject.example,
+    synonym: wordObject.synonym,
   };
 }
 
 // ---------------------
-//   SEND TO DISCORD
+//   SEND TO DISCORD (No change needed)
 // ---------------------
 async function sendToDiscord(message) {
-  // Use the optional chaining on WEBHOOK_URL in case it's not set for local testing,
-  // though it should be set in production environment.
   if (!WEBHOOK_URL) {
     console.error("WEBHOOK_URL is not set. Cannot send to Discord.");
     return;
@@ -97,22 +200,26 @@ async function sendToDiscord(message) {
 }
 
 // ---------------------
-//   MAIN MESSAGE BUILDER
+//   MAIN MESSAGE BUILDER (No change needed)
 // ---------------------
 async function main() {
+  // The structure of the objects returned by getValidWord is the same,
+  // so the rest of the code works perfectly.
   const english = await getValidWord("en");
   const spanish = await getValidWord("es");
 
   const message = `
 **🇪🇸 Spanish Word Of The Day**
-**${spanish.word}:** ${spanish.definition} 
-**Sinónimos:** ${spanish.synonym}
-**Ejemplo:** ${spanish.example}
+**${spanish.word}**: ${spanish.definition}
+**Sinónimos**: ${spanish.synonym}
+**Ejemplo**: ${spanish.example}
+
+---
 
 **🇬🇧 English Word Of The Day**
-**${english.word}:** ${english.definition}
-**Synonyms:** ${english.synonym}
-**Usage:** ${english.example}
+**${english.word}**: ${english.definition}
+**Synonyms**: ${english.synonym}
+**Usage**: ${english.example}
   `.trim();
 
   await sendToDiscord(message);
