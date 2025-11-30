@@ -24,7 +24,7 @@ try {
 //   HELPER FUNCTION TO GET RANDOM SPANISH WORD
 // ---------------------
 // 2. **MODIFIED**: Renamed function and removed language filter
-async function **getRandomWord**() {
+async function getRandomWord() {
   const wordsForLang = **wordData**; // Use the entire loaded array
     
   if (wordsForLang.length === 0) {
