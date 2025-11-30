@@ -1,0 +1,2444 @@
+[
+  {
+    "word": "Inefable",
+    "definition": "Que no puede explicarse con palabras, especialmente refiriéndose a algo sublime o místico.",
+    "example": "La belleza del amanecer en la montaña era inefable.",
+    "synonym": "Indescriptible"
+  },
+  {
+    "word": "Taciturno",
+    "definition": "Callado, silencioso, reservado y melancólico.",
+    "example": "El abuelo se volvió taciturno después de la partida de sus nietos.",
+    "synonym": "Melancólico"
+  },
+  {
+    "word": "Hilarante",
+    "definition": "Que inspira gran alegría o produce una risa ruidosa.",
+    "example": "El monólogo del comediante fue tan hilarante que el público no paraba de reír.",
+    "synonym": "Gracioso"
+  },
+  {
+    "word": "Recíproco",
+    "definition": "Que se da o se dirige a otro, y a la vez se recibe de él.",
+    "example": "La admiración entre los dos músicos era totalmente recíproca.",
+    "synonym": "Mutuo"
+  },
+  {
+    "word": "Efervescente",
+    "definition": "Que produce burbujas; figurativamente, que es animado o entusiasta.",
+    "example": "La personalidad efervescente de la nueva empleada contagió a todo el equipo.",
+    "synonym": "Animado"
+  },
+  {
+    "word": "Ineludible",
+    "definition": "Que no se puede evitar o rehuir.",
+    "example": "El examen final es un requisito ineludible para graduarse.",
+    "synonym": "Obligatorio"
+  },
+  {
+    "word": "Sempiterno",
+    "definition": "Que durará siempre; que no tendrá fin.",
+    "example": "Ella tenía la esperanza de un amor sempiterno.",
+    "synonym": "Eterno"
+  },
+  {
+    "word": "Inopinado",
+    "definition": "Que sucede sin haber sido pensado o previsto.",
+    "example": "La visita inopinada del inspector tomó por sorpresa a la gerencia.",
+    "synonym": "Imprevisto"
+  },
+  {
+    "word": "Perenne",
+    "definition": "Permanente, constante, que dura mucho tiempo.",
+    "example": "El árbol de Navidad de plástico es una decoración perenne.",
+    "synonym": "Constante"
+  },
+  {
+    "word": "Sobriedad",
+    "definition": "Moderación y templanza; ausencia de adornos superfluos.",
+    "example": "El diseño de la casa se caracteriza por la sobriedad y las líneas simples.",
+    "synonym": "Modestia"
+  },
+  {
+    "word": "Resiliencia",
+    "definition": "Capacidad de un ser vivo para adaptarse a un agente perturbador o situación adversa.",
+    "example": "Demostró una asombrosa resiliencia al recuperarse de la crisis económica.",
+    "synonym": "Fortaleza"
+  },
+  {
+    "word": "Convicción",
+    "definition": "Firmeza de la creencia o del juicio sobre algo.",
+    "example": "Expuso sus argumentos con gran convicción, sin dar lugar a dudas.",
+    "synonym": "Seguridad"
+  },
+  {
+    "word": "Idiosincrasia",
+    "definition": "Rasgos y carácter distintivos y propios de un individuo o una colectividad.",
+    "example": "La idiosincrasia de los habitantes del sur es muy peculiar.",
+    "synonym": "Peculiaridad"
+  },
+  {
+    "word": "Elocuencia",
+    "definition": "Facultad de hablar o escribir de modo eficaz para deleitar, conmover o persuadir.",
+    "example": "Su elocuencia lo convirtió en el mejor orador de la asamblea.",
+    "synonym": "Retórica"
+  },
+  {
+    "word": "Intempestivo",
+    "definition": "Inoportuno, inconveniente, o que sucede fuera de tiempo.",
+    "example": "Recibimos una llamada intempestiva a las tres de la madrugada.",
+    "synonym": "Inoportuno"
+  },
+  {
+    "word": "Paradigma",
+    "definition": "Ejemplo o modelo de algo.",
+    "example": "El nuevo descubrimiento científico cambió el paradigma de la física moderna.",
+    "synonym": "Modelo"
+  },
+  {
+    "word": "Vituperar",
+    "definition": "Criticar con dureza y desaprobación a alguien o algo.",
+    "example": "Los medios no dejaron de vituperar la actuación del ministro.",
+    "synonym": "Censurar"
+  },
+  {
+    "word": "Efímero",
+    "definition": "Que dura por muy poco tiempo.",
+    "example": "La fama de ese cantante resultó ser efímera.",
+    "synonym": "Pasajero"
+  },
+  {
+    "word": "Inconmensurable",
+    "definition": "Tan grande que no puede medirse o calcularse.",
+    "example": "La distancia entre las galaxias es prácticamente inconmensurable.",
+    "synonym": "Incalculable"
+  },
+  {
+    "word": "Soliloquio",
+    "definition": "Discurso que se mantiene consigo mismo, en voz alta o baja.",
+    "example": "El actor ensayó un emotivo soliloquio antes de la función.",
+    "synonym": "Monólogo"
+  },
+  {
+    "word": "Filantropía",
+    "definition": "Amor al género humano manifestado en obras en beneficio de los demás.",
+    "example": "El empresario es conocido por sus actos de filantropía en la región.",
+    "synonym": "Altruismo"
+  },
+  {
+    "word": "Peculiar",
+    "definition": "Propio o privativo de cada persona o cosa; que no es común.",
+    "example": "El restaurante tiene un estilo de decoración muy peculiar.",
+    "synonym": "Singular"
+  },
+  {
+    "word": "Suspicaz",
+    "definition": "Propenso a concebir sospechas o a tener desconfianza.",
+    "example": "La actitud sospechosa del testigo hizo que el detective se pusiera suspicaz.",
+    "synonym": "Desconfiado"
+  },
+  {
+    "word": "Verosímil",
+    "definition": "Que tiene apariencia de verdadero; creíble.",
+    "example": "Aunque la historia era increíble, la narración la hacía verosímil.",
+    "synonym": "Creíble"
+  },
+  {
+    "word": "Inopia",
+    "definition": "Extrema pobreza o escasez.",
+    "example": "El país cayó en la inopia tras la guerra civil.",
+    "synonym": "Pobreza"
+  },
+  {
+    "word": "Exiguo",
+    "definition": "Muy poco, insuficiente.",
+    "example": "El presupuesto para el proyecto resultó ser demasiado exiguo.",
+    "synonym": "Escaso"
+  },
+  {
+    "word": "Prolífico",
+    "definition": "Que tiene la capacidad de producir o reproducirse en abundancia.",
+    "example": "El escritor fue prolífico, publicando una novela cada año.",
+    "synonym": "Fecundo"
+  },
+  {
+    "word": "Diáfano",
+    "definition": "Dicho de un cuerpo: que deja pasar a su través la luz casi en su totalidad.",
+    "example": "El agua del río de montaña era totalmente diáfana.",
+    "synonym": "Transparente"
+  },
+  {
+    "word": "Acuciar",
+    "definition": "Darse prisa o apresurarse; estimular a hacer algo.",
+    "example": "La necesidad de entregar el informe a tiempo lo hacía acuciar su trabajo.",
+    "synonym": "Apresurar"
+  },
+  {
+    "word": "Etimología",
+    "definition": "Origen de las palabras, razón de su existencia, de su significación y de su forma.",
+    "example": "Estudiar la etimología de las palabras latinas es fascinante.",
+    "synonym": "Origen"
+  },
+  {
+    "word": "Apático",
+    "definition": "Que muestra o padece de apatía, es decir, falta de emoción o interés.",
+    "example": "Después de la derrota, el equipo se mostró apático y sin energía.",
+    "synonym": "Indiferente"
+  },
+  {
+    "word": "Estival",
+    "definition": "Perteneciente o relativo al verano.",
+    "example": "Disfrutamos de las noches estivales junto a la playa.",
+    "synonym": "Veraniego"
+  },
+  {
+    "word": "Dilación",
+    "definition": "Retraso, demora o tardanza en el cumplimiento de algo.",
+    "example": "La dilación en la entrega del material generó muchos problemas.",
+    "synonym": "Retraso"
+  },
+  {
+    "word": "Indeleble",
+    "definition": "Que no se puede borrar o quitar.",
+    "example": "El recuerdo de ese día quedó grabado de forma indeleble en su memoria.",
+    "synonym": "Imborrable"
+  },
+  {
+    "word": "Lóbrego",
+    "definition": "Oscuro, sombrío y triste.",
+    "example": "El ambiente del viejo castillo era lóbrego y misterioso.",
+    "synonym": "Tétrico"
+  },
+  {
+    "word": "Pétreo",
+    "definition": "De piedra o que tiene sus cualidades; figurativamente, insensible.",
+    "example": "Ante la mala noticia, su rostro permaneció pétreo, sin mostrar emoción.",
+    "synonym": "Rocoso"
+  },
+  {
+    "word": "Vociferar",
+    "definition": "Publicar algo en voz alta y a voces; gritar.",
+    "example": "La gente comenzó a vociferar su protesta contra la nueva ley.",
+    "synonym": "Gritar"
+  },
+  {
+    "word": "Incipiente",
+    "definition": "Que está empezando; que se encuentra en sus inicios.",
+    "example": "La enfermedad estaba en su fase incipiente y era fácil de tratar.",
+    "synonym": "Inicial"
+  },
+  {
+    "word": "Subrepticio",
+    "definition": "Que se hace o se toma a escondidas.",
+    "example": "El espía pasó la información de manera subrepticia al contacto.",
+    "synonym": "Oculto"
+  },
+  {
+    "word": "Elucidar",
+    "definition": "Poner en claro, explicar, dilucidar.",
+    "example": "El detective intentó elucidar el misterio del robo de la joya.",
+    "synonym": "Aclarar"
+  },
+  {
+    "word": "Hético",
+    "definition": "Sumamente delgado, extenuado.",
+    "example": "Después de la larga enfermedad, el paciente se veía hético y débil.",
+    "synonym": "Flaco"
+  },
+  {
+    "word": "Abulia",
+    "definition": "Falta de voluntad o energía para hacer algo.",
+    "example": "Sufría de una abulia que le impedía levantarse de la cama.",
+    "synonym": "Desgana"
+  },
+  {
+    "word": "Enigma",
+    "definition": "Dicho o cosa que tiene un sentido encubierto y es difícil de entender o interpretar.",
+    "example": "La desaparición del manuscrito sigue siendo un enigma para los historiadores.",
+    "synonym": "Misterio"
+  },
+  {
+    "word": "Idílico",
+    "definition": "Agradable, hermoso y pacífico.",
+    "example": "Pasaron unas vacaciones idílicas en una cabaña junto al lago.",
+    "synonym": "Bucólico"
+  },
+  {
+    "word": "Furtivo",
+    "definition": "Que se hace a escondidas.",
+    "example": "Intercambiaron una mirada furtiva para que nadie los viera.",
+    "synonym": "Clandestino"
+  },
+  {
+    "word": "Pueril",
+    "definition": "Propio de un niño o que denota falta de madurez.",
+    "example": "Su comentario sobre el trabajo fue pueril e inapropiado.",
+    "synonym": "Infantil"
+  },
+  {
+    "word": "Impávido",
+    "definition": "Libre de pavor, sereno ante el peligro.",
+    "example": "El soldado permaneció impávido bajo el intenso fuego enemigo.",
+    "synonym": "Imperturbable"
+  },
+  {
+    "word": "Diletante",
+    "definition": "Aficionado a algún arte o actividad sin tener conocimientos profundos.",
+    "example": "Aunque toca el piano, solo es un diletante, no un profesional.",
+    "synonym": "Amateur"
+  },
+  {
+    "word": "Asepsia",
+    "definition": "Ausencia de microbios que puedan causar infección.",
+    "example": "El cirujano mantiene una estricta asepsia en el quirófano.",
+    "synonym": "Higiene"
+  },
+  {
+    "word": "Sustantivo",
+    "definition": "Clase de palabra que nombra o designa a seres, entidades, o cosas.",
+    "example": "En la frase, 'mesa' es un sustantivo.",
+    "synonym": "Nombre"
+  },
+  {
+    "word": "Verbo",
+    "definition": "Clase de palabra que expresa una acción, estado, o proceso.",
+    "example": "El verbo 'correr' indica una acción.",
+    "synonym": "Acción"
+  },
+  {
+    "word": "Adjetivo",
+    "definition": "Clase de palabra que califica o determina al sustantivo.",
+    "example": "'Rápido' es el adjetivo que describe al coche.",
+    "synonym": "Calificativo"
+  },
+  {
+    "word": "Adverbio",
+    "definition": "Clase de palabra que modifica al verbo, al adjetivo o a otro adverbio.",
+    "example": "La palabra 'lentamente' es un adverbio de modo.",
+    "synonym": "Modificador"
+  },
+  {
+    "word": "Preposición",
+    "definition": "Clase de palabra invariable que introduce un complemento.",
+    "example": "La preposición 'de' establece una relación de pertenencia.",
+    "synonym": "Nexos"
+  },
+  {
+    "word": "Interjección",
+    "definition": "Clase de palabra que expresa una emoción o impresión súbita.",
+    "example": "¡Ay! es una interjección común de dolor.",
+    "synonym": "Exclamación"
+  },
+  {
+    "word": "Conjunción",
+    "definition": "Clase de palabra que une dos o más elementos de una oración.",
+    "example": "La conjunción 'y' une las ideas de la lista.",
+    "synonym": "Unión"
+  },
+  {
+    "word": "Pronunciación",
+    "definition": "Manera de articular y emitir los sonidos de una lengua.",
+    "example": "Tu pronunciación en español ha mejorado mucho.",
+    "synonym": "Articulación"
+  },
+  {
+    "word": "Sílaba",
+    "definition": "Unidad de sonido en que se divide una palabra al hablar.",
+    "example": "La palabra 'teléfono' tiene cuatro sílabas.",
+    "synonym": "Morfema"
+  },
+  {
+    "word": "Ortografía",
+    "definition": "Conjunto de normas que regulan la escritura correcta de una lengua.",
+    "example": "Debes revisar la ortografía antes de entregar el documento.",
+    "synonym": "Escritura"
+  },
+  {
+    "word": "Lexicón",
+    "definition": "Diccionario o vocabulario de una lengua.",
+    "example": "Este lexicón es muy útil para entender el español antiguo.",
+    "synonym": "Vocabulario"
+  },
+  {
+    "word": "Sintaxis",
+    "definition": "Parte de la gramática que estudia la forma en que se combinan las palabras para formar oraciones.",
+    "example": "La sintaxis de este párrafo es impecable.",
+    "synonym": "Estructura"
+  },
+  {
+    "word": "Semántica",
+    "definition": "Parte de la lingüística que estudia el significado de las expresiones lingüísticas.",
+    "example": "El análisis semántico reveló la ambigüedad de la frase.",
+    "synonym": "Significado"
+  },
+  {
+    "word": "Fonética",
+    "definition": "Estudio de los sonidos reales del habla.",
+    "example": "La fonética es clave para un buen acento.",
+    "synonym": "Sonidos"
+  },
+  {
+    "word": "Gerundio",
+    "definition": "Forma no personal del verbo que indica una acción en curso (termina en -ando, -iendo).",
+    "example": "La forma 'corriendo' es el gerundio del verbo 'correr'.",
+    "synonym": "Forma verbal"
+  },
+  {
+    "word": "Infinitivo",
+    "definition": "Forma no personal del verbo, la forma base (termina en -ar, -er, -ir).",
+    "example": "El infinitivo de 'cantaba' es 'cantar'.",
+    "synonym": "Base verbal"
+  },
+  {
+    "word": "Participio",
+    "definition": "Forma no personal del verbo que indica una acción ya finalizada (termina en -ado, -ido).",
+    "example": "El participio de 'comer' es 'comido'.",
+    "synonym": "Forma verbal"
+  },
+  {
+    "word": "Acento",
+    "definition": "Mayor intensidad con que se pronuncia una sílaba en la palabra.",
+    "example": "La palabra 'café' lleva el acento en la última sílaba.",
+    "synonym": "Énfasis"
+  },
+  {
+    "word": "Dicción",
+    "definition": "Manera de hablar o escribir, considerada buena o mala únicamente por el empleo de las palabras.",
+    "example": "El actor tiene una excelente dicción, se le entiende todo.",
+    "synonym": "Expresión"
+  },
+  {
+    "word": "Modismo",
+    "definition": "Expresión fija, privativa de una lengua, cuyo significado no se deduce de las palabras que la forman.",
+    "example": "El modismo 'estar en las nubes' significa estar despistado.",
+    "synonym": "Frase hecha"
+  },
+  {
+    "word": "Neologismo",
+    "definition": "Vocablo, acepción o giro nuevo en una lengua.",
+    "example": "'Tuit' fue un neologismo aceptado recientemente.",
+    "synonym": "Nueva palabra"
+  },
+  {
+    "word": "Argot",
+    "definition": "Lenguaje especial entre personas de la misma profesión o clase social.",
+    "example": "El argot de los programadores es a veces incomprensible.",
+    "synonym": "Jerga"
+  },
+  {
+    "word": "Dialecto",
+    "definition": "Variedad de una lengua que se habla en una determinada zona geográfica.",
+    "example": "El andaluz es un dialecto del español con sus propias particularidades.",
+    "synonym": "Variante lingüística"
+  },
+  {
+    "word": "Metáfora",
+    "definition": "Figura retórica que consiste en identificar un término real con uno imaginario.",
+    "example": "Decir que 'sus ojos son dos luceros' es una metáfora.",
+    "synonym": "Comparación"
+  },
+  {
+    "word": "Sinestesia",
+    "definition": "Figura retórica que mezcla sensaciones de sentidos diferentes.",
+    "example": "El poeta describió el 'silencio blanco' usando la sinestesia.",
+    "synonym": "Fusión sensorial"
+  },
+  {
+    "word": "Alegoría",
+    "definition": "Ficción en virtud de la cual una cosa representa o significa otra diferente.",
+    "example": "La novela es una alegoría sobre la condición humana.",
+    "synonym": "Símbolo"
+  },
+  {
+    "word": "Hipérbole",
+    "definition": "Figura retórica que consiste en aumentar o disminuir exageradamente la verdad.",
+    "example": "Te he llamado un millón de veces es una hipérbole común.",
+    "synonym": "Exageración"
+  },
+  {
+    "word": "Oxímoron",
+    "definition": "Combinación en una misma estructura de dos palabras o expresiones de significado opuesto.",
+    "example": "'Silencio atronador' es un claro ejemplo de oxímoron.",
+    "synonym": "Contradicción"
+  },
+  {
+    "word": "Pleonasmo",
+    "definition": "Uso de palabras innecesarias para la comprensión del sentido.",
+    "example": "Subir arriba es un pleonasmo, ya que subir implica ir hacia arriba.",
+    "synonym": "Redundancia"
+  },
+  {
+    "word": "Catarsis",
+    "definition": "Purificación de las pasiones mediante la emoción estética o religiosa.",
+    "example": "Ver la obra de teatro le sirvió como una profunda catarsis emocional.",
+    "synonym": "Purificación"
+  },
+  {
+    "word": "Utopía",
+    "definition": "Plan, proyecto, doctrina o sistema deseable que parece irrealizable.",
+    "example": "La creación de una sociedad sin dinero es una utopía.",
+    "synonym": "Sueño"
+  },
+  {
+    "word": "Distopía",
+    "definition": "Representación ficticia de una sociedad futura indeseable o aterradora.",
+    "example": "La novela describe una distopía controlada por la tecnología.",
+    "synonym": "Anti-utopía"
+  },
+  {
+    "word": "Nefelibata",
+    "definition": "Persona soñadora, que vive en las nubes.",
+    "example": "Mi amigo es un nefelibata, siempre está distraído con sus ideas.",
+    "synonym": "Soñador"
+  },
+  {
+    "word": "Ecléctico",
+    "definition": "Que combina elementos de distintos estilos, ideas o filosofías.",
+    "example": "El decorador tiene un estilo ecléctico que mezcla lo moderno y lo antiguo.",
+    "synonym": "Variado"
+  },
+  {
+    "word": "Inmarcesible",
+    "definition": "Que no puede marchitarse.",
+    "example": "El recuerdo de su amor permanece inmarcesible en su corazón.",
+    "synonym": "Inmutable"
+  },
+  {
+    "word": "Petricor",
+    "definition": "Olor que produce la lluvia al caer sobre tierra seca.",
+    "example": "El aire se llenó del agradable petricor después de la tormenta.",
+    "synonym": "Olor a lluvia"
+  },
+  {
+    "word": "Melancolía",
+    "definition": "Tendencia a la tristeza permanente sin causa aparente.",
+    "example": "La música clásica a menudo le produce una suave melancolía.",
+    "synonym": "Tristeza"
+  },
+  {
+    "word": "Añoranza",
+    "definition": "Sentimiento de pena por la lejanía, la ausencia, o la pérdida de alguien o algo querido.",
+    "example": "Sentía una gran añoranza por su país natal y su familia.",
+    "synonym": "Nostalgia"
+  },
+  {
+    "word": "Aurora",
+    "definition": "Luz difusa que precede inmediatamente a la salida del sol.",
+    "example": "Salimos de casa justo antes de que apareciera la aurora.",
+    "synonym": "Amanecer"
+  },
+  {
+    "word": "Centella",
+    "definition": "Rayo de luz muy vivo y de corta duración.",
+    "example": "Una centella iluminó el cielo oscuro por un instante.",
+    "synonym": "Relámpago"
+  },
+  {
+    "word": "Gélido",
+    "definition": "Muy frío; helado.",
+    "example": "El viento gélido de la mañana le caló hasta los huesos.",
+    "synonym": "Helado"
+  },
+  {
+    "word": "Vorágine",
+    "definition": "Remolino de agua o viento; figurativamente, una situación confusa o desordenada.",
+    "example": "La empresa se vio atrapada en una vorágine de cambios y reestructuraciones.",
+    "synonym": "Remolino"
+  },
+  {
+    "word": "Frenesí",
+    "definition": "Exaltación violenta de un sentimiento o una pasión.",
+    "example": "El público entró en un frenesí de aplausos tras el concierto.",
+    "synonym": "Exaltación"
+  },
+  {
+    "word": "Zozobra",
+    "definition": "Intranquilidad, inquietud, angustia.",
+    "example": "La zozobra por la salud de su madre no le dejaba dormir.",
+    "synonym": "Angustia"
+  },
+  {
+    "word": "Lívido",
+    "definition": "Intensamente pálido, amoratado.",
+    "example": "Al ver el accidente, se quedó lívido del susto.",
+    "synonym": "Pálido"
+  },
+  {
+    "word": "Peregrino",
+    "definition": "Que anda por tierras extrañas; dicho de una idea, que es extraña o desacostumbrada.",
+    "example": "El peregrino terminó su largo viaje a Santiago de Compostela.",
+    "synonym": "Viajero"
+  },
+  {
+    "word": "Celeridad",
+    "definition": "Prontitud, rapidez en el movimiento o en la ejecución de algo.",
+    "example": "El equipo de emergencia actuó con gran celeridad para controlar el incendio.",
+    "synonym": "Rapidez"
+  },
+  {
+    "word": "Austeridad",
+    "definition": "Severidad y rigor en la forma de vivir o de comportarse; moderación en el gasto.",
+    "example": "El nuevo plan económico se basa en una gran austeridad fiscal.",
+    "synonym": "Severidad"
+  },
+  {
+    "word": "Beneplácito",
+    "definition": "Aprobación, permiso o consentimiento.",
+    "example": "El proyecto fue ejecutado con el beneplácito del comité directivo.",
+    "synonym": "Aprobación"
+  },
+  {
+    "word": "Disperso",
+    "definition": "Separado, diseminado; figurativamente, con falta de concentración.",
+    "example": "El estudiante se mostró disperso y no pudo concentrarse en la clase.",
+    "synonym": "Distraído"
+  },
+  {
+    "word": "Efigie",
+    "definition": "Imagen o representación de una persona.",
+    "example": "Encontraron una antigua moneda con la efigie de un emperador romano.",
+    "synonym": "Estatua"
+  },
+  {
+    "word": "Imberbe",
+    "definition": "Dicho de una persona: que todavía no tiene barba.",
+    "example": "El joven imberbe se unió al ejército con mucha ilusión.",
+    "synonym": "Barbilampiño"
+  },
+  {
+    "word": "Lacónico",
+    "definition": "Breve y conciso; que usa pocas palabras.",
+    "example": "Su respuesta al periodista fue lacónica, limitándose a un 'no'.",
+    "synonym": "Conciso"
+  },
+  {
+    "word": "Manifiesto",
+    "definition": "Claro, evidente; también, escrito donde se declara una postura o intención.",
+    "example": "Su desinterés por el tema era manifiesto para todos.",
+    "synonym": "Evidente"
+  },
+  {
+    "word": "Opulento",
+    "definition": "Rico, abundante, lujoso.",
+    "example": "La mansión estaba decorada con un gusto opulento y extravagante.",
+    "synonym": "Lujoso"
+  },
+  {
+    "word": "Quimera",
+    "definition": "Sueño o ilusión que es producto de la imaginación y se considera irrealizable.",
+    "example": "Buscar la perfección es una quimera para la mayoría de los artistas.",
+    "synonym": "Ilusión"
+  },
+  {
+    "word": "Recóndito",
+    "definition": "Muy escondido, reservado o receso.",
+    "example": "El tesoro fue hallado en el lugar más recóndito del templo.",
+    "synonym": "Escondido"
+  },
+  {
+    "word": "Sátira",
+    "definition": "Composición literaria o artística que censura vicios individuales o colectivos.",
+    "example": "La película es una sátira mordaz sobre la política actual.",
+    "synonym": "Burla"
+  },
+  {
+    "word": "Transitorio",
+    "definition": "Que pasa o dura poco tiempo.",
+    "example": "Su mal humor era solo transitorio, pronto se le pasó.",
+    "synonym": "Pasajero"
+  },
+  {
+    "word": "Ufano",
+    "definition": "Arrogante, presuntuoso; que está muy orgulloso de sí mismo.",
+    "example": "El campeón se mostró ufano ante los aplausos del público.",
+    "synonym": "Orgulloso"
+  },
+  {
+    "word": "Venial",
+    "definition": "Dicho de un pecado, que es leve y no rompe la amistad con Dios.",
+    "example": "Olvidar su cumpleaños fue un error venial, no una ofensa grave.",
+    "synonym": "Leve"
+  },
+  {
+    "word": "Yermo",
+    "definition": "Dicho de una tierra: no cultivada; deshabitado.",
+    "example": "Viajaron a través de un paisaje yermo y desolado.",
+    "synonym": "Desierto"
+  },
+  {
+    "word": "Zafio",
+    "definition": "Tosco, grosero, sin pulimento.",
+    "example": "Su comentario zafio ofendió a todos los presentes en la cena.",
+    "synonym": "Grosero"
+  },
+  {
+    "word": "Álgido",
+    "definition": "Punto culminante o más importante de un proceso.",
+    "example": "El momento álgido del debate fue el enfrentamiento sobre impuestos.",
+    "synonym": "Culminante"
+  },
+  {
+    "word": "Bizarro",
+    "definition": "Valiente, arriesgado; en otro contexto, extraño o extravagante.",
+    "example": "El bizarro caballero defendió la fortaleza con valentía.",
+    "synonym": "Valiente"
+  },
+  {
+    "word": "Candor",
+    "definition": "Sencillez, ingenuidad y pureza del ánimo.",
+    "example": "La niña miraba el mundo con un candor que conmovía.",
+    "synonym": "Ingenuidad"
+  },
+  {
+    "word": "Deleite",
+    "definition": "Placer del ánimo o de los sentidos.",
+    "example": "Leer poesía es un verdadero deleite para el espíritu.",
+    "synonym": "Placer"
+  },
+  {
+    "word": "Épico",
+    "definition": "Perteneciente o relativo a la epopeya o a la poesía heroica; grandioso.",
+    "example": "La batalla fue un acontecimiento épico que duró tres días.",
+    "synonym": "Grandioso"
+  },
+  {
+    "word": "Fatuo",
+    "definition": "Presuntuoso y vano, engreído.",
+    "example": "Su actitud fatua y arrogante le ganó el rechazo de sus colegas.",
+    "synonym": "Vano"
+  },
+  {
+    "word": "Gárrulo",
+    "definition": "Muy hablador, charlatán.",
+    "example": "La vecina gárrula siempre tenía una anécdota interminable.",
+    "synonym": "Charlatán"
+  },
+  {
+    "word": "Hacinamiento",
+    "definition": "Acción y efecto de amontonar, acumular o juntar sin orden.",
+    "example": "Las condiciones de hacinamiento en la prisión eran inhumanas.",
+    "synonym": "Acumulación"
+  },
+  {
+    "word": "Impetuoso",
+    "definition": "Que se mueve o actúa con ímpetu, violencia o rapidez.",
+    "example": "El río desbordó su cauce con una fuerza impetuosa.",
+    "synonym": "Violento"
+  },
+  {
+    "word": "Júbilo",
+    "definition": "Viva alegría, a veces ruidosa, que se manifiesta con signos exteriores.",
+    "example": "El anuncio de la victoria fue recibido con gran júbilo.",
+    "synonym": "Alegría"
+  },
+  {
+    "word": "Káiser",
+    "definition": "Título que se dio a los emperadores de Alemania y Austria-Hungría.",
+    "example": "El Káiser Guillermo II abdicó al final de la Primera Guerra Mundial.",
+    "synonym": "Emperador"
+  },
+  {
+    "word": "Lisonja",
+    "definition": "Alabanza exagerada y generalmente interesada que se hace a alguien.",
+    "example": "No creo en su sinceridad, sus palabras son puras lisonjas.",
+    "synonym": "Halago"
+  },
+  {
+    "word": "Mármol",
+    "definition": "Piedra caliza metamórfica, compacta, cristalina y pulimentable.",
+    "example": "La estatua fue tallada en mármol blanco de Carrara.",
+    "synonym": "Piedra"
+  },
+  {
+    "word": "Nefando",
+    "definition": "Indigno, torpe, malo, vergonzoso.",
+    "example": "Cometieron un acto nefando que la sociedad condenó.",
+    "synonym": "Horrendo"
+  },
+  {
+    "word": "Óbice",
+    "definition": "Obstáculo o impedimento.",
+    "example": "La falta de financiación fue el principal óbice para el inicio del proyecto.",
+    "synonym": "Obstáculo"
+  },
+  {
+    "word": "Pétalo",
+    "definition": "Hoja transformada, por lo común de colores vistosos, que forma la corola de una flor.",
+    "example": "El suelo del jardín estaba cubierto de pétalos de rosa.",
+    "synonym": "Hoja floral"
+  },
+  {
+    "word": "Quórum",
+    "definition": "Número de individuos necesario para que un cuerpo deliberante tome ciertos acuerdos.",
+    "example": "No se pudo iniciar la reunión porque no había quórum suficiente.",
+    "synonym": "Asistencia mínima"
+  },
+  {
+    "word": "Retórico",
+    "definition": "Perteneciente o relativo a la retórica; artificioso o exagerado en el lenguaje.",
+    "example": "Su discurso, lleno de adornos retóricos, no convenció a la audiencia.",
+    "synonym": "Artificioso"
+  },
+  {
+    "word": "Súbito",
+    "definition": "Imprevisto, repentino.",
+    "example": "La tormenta comenzó de manera súbita y sin aviso.",
+    "synonym": "Repentino"
+  },
+  {
+    "word": "Trémulo",
+    "definition": "Que tiembla o tiene un movimiento trémulo.",
+    "example": "La voz del anciano era trémula por la emoción.",
+    "synonym": "Tembloroso"
+  },
+  {
+    "word": "Urgencia",
+    "definition": "Cualidad de urgente; necesidad o premura.",
+    "example": "Este es un asunto de suma urgencia que debe resolverse hoy.",
+    "synonym": "Premura"
+  },
+  {
+    "word": "Vívido",
+    "definition": "Intenso, vehemente; dicho de un recuerdo, muy claro.",
+    "example": "Tenía un recuerdo vívido de su infancia en el campo.",
+    "synonym": "Intenso"
+  },
+  {
+    "word": "Xenofobia",
+    "definition": "Fobia u odio hacia los extranjeros.",
+    "example": "Las leyes fueron criticadas por incitar la xenofobia en la población.",
+    "synonym": "Hostilidad"
+  },
+  {
+    "word": "Yacimiento",
+    "definition": "Lugar donde se halla naturalmente una roca, un mineral o un fósil.",
+    "example": "Descubrieron un importante yacimiento arqueológico en el desierto.",
+    "synonym": "Reserva"
+  },
+  {
+    "word": "Zénit",
+    "definition": "Punto de la esfera celeste que corresponde a la vertical del observador.",
+    "example": "El sol alcanzó su zénit al mediodía.",
+    "synonym": "Cenit"
+  },
+  {
+    "word": "Acuarela",
+    "definition": "Pintura sobre papel o cartón con colores transparentes diluidos en agua.",
+    "example": "La artista creó un hermoso paisaje con la técnica de la acuarela.",
+    "synonym": "Pintura"
+  },
+  {
+    "word": "Bogar",
+    "definition": "Remar; navegar en una embarcación impulsada por remos.",
+    "example": "Bogaron toda la mañana para llegar a la isla antes del almuerzo.",
+    "synonym": "Remar"
+  },
+  {
+    "word": "Colosal",
+    "definition": "De proporciones extraordinarias o gigantescas.",
+    "example": "La estatua de la libertad es una obra colosal.",
+    "synonym": "Gigantesco"
+  },
+  {
+    "word": "Dédalo",
+    "definition": "Laberinto, lugar confuso de donde es difícil encontrar la salida.",
+    "example": "El mercado es un dédalo de pasillos estrechos y puestos.",
+    "synonym": "Laberinto"
+  },
+  {
+    "word": "Exultar",
+    "definition": "Mostrar gran alegría o satisfacción.",
+    "example": "El equipo exultó de alegría tras marcar el gol de la victoria.",
+    "synonym": "Regocijarse"
+  },
+  {
+    "word": "Fárrago",
+    "definition": "Acumulación de cosas heterogéneas o inútiles, generalmente confusa.",
+    "example": "El informe era un fárrago de datos sin relación aparente.",
+    "synonym": "Desorden"
+  },
+  {
+    "word": "Glacial",
+    "definition": "Perteneciente o relativo al hielo; extremadamente frío.",
+    "example": "La recepción que nos dio fue glacial y distante.",
+    "synonym": "Helado"
+  },
+  {
+    "word": "Hesitación",
+    "definition": "Duda, vacilación, falta de firmeza.",
+    "example": "Respondió a la pregunta sin la menor hesitación.",
+    "synonym": "Duda"
+  },
+  {
+    "word": "Ímpetu",
+    "definition": "Movimiento acelerado y violento; o, brío y vehemencia.",
+    "example": "El joven atacó el problema con gran ímpetu y energía.",
+    "synonym": "Brío"
+  },
+  {
+    "word": "Jocoso",
+    "definition": "Gracioso, chistoso, festivo.",
+    "example": "Contó una historia muy jocosa que hizo reír a todos.",
+    "synonym": "Chistoso"
+  },
+  {
+    "word": "Letargo",
+    "definition": "Estado de somnolencia o inactividad prolongada.",
+    "example": "El oso hiberna en un profundo letargo durante el invierno.",
+    "synonym": "Somnolencia"
+  },
+  {
+    "word": "Mecenas",
+    "definition": "Persona que patrocina las artes o las letras.",
+    "example": "El empresario se convirtió en el mecenas de varios jóvenes artistas.",
+    "synonym": "Patrocinador"
+  },
+  {
+    "word": "Nadería",
+    "definition": "Cosa de poca o ninguna importancia.",
+    "example": "Discutieron por una nadería sin valor.",
+    "synonym": "Bagatela"
+  },
+  {
+    "word": "Ocaso",
+    "definition": "Puesta del sol; figurativamente, declinación o fin de algo.",
+    "example": "Vimos un hermoso ocaso sobre el mar.",
+    "synonym": "Atardecer"
+  },
+  {
+    "word": "Paladín",
+    "definition": "Defensor denodado de alguien o algo.",
+    "example": "Se erigió como paladín de los derechos humanos en su comunidad.",
+    "synonym": "Defensor"
+  },
+  {
+    "word": "Recabar",
+    "definition": "Conseguir algo que se desea con instancias o súplicas.",
+    "example": "El abogado logró recabar todas las pruebas necesarias para el juicio.",
+    "synonym": "Reunir"
+  },
+  {
+    "word": "Sinuoso",
+    "definition": "Que tiene senos, ondulaciones o recodos.",
+    "example": "El camino de la montaña era sinuoso y difícil de recorrer.",
+    "synonym": "Curvo"
+  },
+  {
+    "word": "Turbulento",
+    "definition": "Desordenado, agitado, violento.",
+    "example": "Pasamos por una zona de turbulento tráfico aéreo.",
+    "synonym": "Agitado"
+  },
+  {
+    "word": "Urente",
+    "definition": "Que quema o escuece; figurativamente, muy vivo o intenso.",
+    "example": "El sol del desierto era urente a mediodía.",
+    "synonym": "Ardiente"
+  },
+  {
+    "word": "Valeroso",
+    "definition": "Valiente, denodado, esforzado.",
+    "example": "El capitán demostró ser un líder valeroso en la batalla.",
+    "synonym": "Valiente"
+  },
+  {
+    "word": "Zalamero",
+    "definition": "Que prodiga zalamerías (demostraciones de cariño exageradas e interesadas).",
+    "example": "El empleado zalamero siempre le hacía cumplidos al jefe.",
+    "synonym": "Adulador"
+  },
+  {
+    "word": "Abstruso",
+    "definition": "De difícil comprensión, muy recóndito y oscuro.",
+    "example": "El texto filosófico resultó ser demasiado abstruso para la mayoría de los estudiantes.",
+    "synonym": "Complicado"
+  },
+  {
+    "word": "Banal",
+    "definition": "Trivial, común, que carece de originalidad.",
+    "example": "Su comentario sobre la vida era tan banal que nadie prestó atención.",
+    "synonym": "Trivial"
+  },
+  {
+    "word": "Clandestino",
+    "definition": "Secreto, oculto, hecho a escondidas.",
+    "example": "La reunión se llevó a cabo en un lugar clandestino.",
+    "synonym": "Furtivo"
+  },
+  {
+    "word": "Decrépito",
+    "definition": "Suma y excesivamente viejo, con graves deterioros por la edad.",
+    "example": "El edificio estaba decrépito y necesitaba urgentemente ser demolido.",
+    "synonym": "Viejo"
+  },
+  {
+    "word": "Enajenado",
+    "definition": "Dicho de una persona: que ha perdido la razón o el juicio; o, que está fuera de sí.",
+    "example": "El estrés lo tenía completamente enajenado de la realidad.",
+    "synonym": "Alienado"
+  },
+  {
+    "word": "Fatuidad",
+    "definition": "Presunción necia y vana; engreimiento.",
+    "example": "Su fatuidad era tan grande que creía que todos estaban pendientes de él.",
+    "synonym": "Presunción"
+  },
+  {
+    "word": "Gélido",
+    "definition": "Muy frío, helado.",
+    "example": "El agua del río estaba gélida, no apta para el baño.",
+    "synonym": "Frío"
+  },
+  {
+    "word": "Hostil",
+    "definition": "Contrario o enemigo; también, perteneciente o relativo al enemigo.",
+    "example": "El ambiente en la sala de juntas era hostil y tenso.",
+    "synonym": "Adverso"
+  },
+  {
+    "word": "Ínclito",
+    "definition": "Ilustre, afamado, célebre.",
+    "example": "Se referían a él como el ínclito escritor de la época.",
+    "synonym": "Ilustre"
+  },
+  {
+    "word": "Júbilo",
+    "definition": "Viva alegría, a veces ruidosa, que se manifiesta con signos exteriores.",
+    "example": "El júbilo en el estadio era contagioso tras la victoria.",
+    "synonym": "Gozo"
+  },
+  {
+    "word": "Lóbrego",
+    "definition": "Oscuro, sombrío y triste.",
+    "example": "El antiguo sótano era un lugar lóbrego y húmedo.",
+    "synonym": "Sombrío"
+  },
+  {
+    "word": "Mefítico",
+    "definition": "Nocivo, venenoso; dicho de un gas o emanación.",
+    "example": "El aire en la cueva era mefítico y asfixiante.",
+    "synonym": "Venenoso"
+  },
+  {
+    "word": "Nefario",
+    "definition": "Sumamente malvado, impío.",
+    "example": "Cometió un acto nefario que no tiene justificación.",
+    "synonym": "Malvado"
+  },
+  {
+    "word": "Opulencia",
+    "definition": "Riqueza, abundancia de bienes.",
+    "example": "Vivían en la opulencia, sin ninguna preocupación económica.",
+    "synonym": "Riqueza"
+  },
+  {
+    "word": "Preámbulo",
+    "definition": "Aquello que se dice o sucede antes de dar principio a la materia principal.",
+    "example": "El preámbulo de la constitución explica los principios fundamentales.",
+    "synonym": "Introducción"
+  },
+  {
+    "word": "Quimérico",
+    "definition": "Fabuloso, fingido o imaginado sin fundamento.",
+    "example": "La idea de viajar en el tiempo es todavía un sueño quimérico.",
+    "synonym": "Ilusorio"
+  },
+  {
+    "word": "Recusar",
+    "definition": "Rechazar o no admitir algo o a alguien.",
+    "example": "El abogado decidió recusar al testigo por falta de credibilidad.",
+    "synonym": "Rechazar"
+  },
+  {
+    "word": "Sustancial",
+    "definition": "Fundamental, esencial, principal.",
+    "example": "Hicimos un cambio sustancial en la estrategia de la empresa.",
+    "synonym": "Esencial"
+  },
+  {
+    "word": "Tenaz",
+    "definition": "Que se pega, agarra o prende a algo, y es difícil de separar; o, firme y persistente.",
+    "example": "Su actitud tenaz le permitió alcanzar sus metas a pesar de los obstáculos.",
+    "synonym": "Persistente"
+  },
+  {
+    "word": "Ufología",
+    "definition": "Estudio de los objetos voladores no identificados (OVNIS).",
+    "example": "El documental exploró varios casos famosos de ufología.",
+    "synonym": "OVNIs"
+  },
+  {
+    "word": "Venustez",
+    "definition": "Hermosura, belleza muy notable.",
+    "example": "La venustez de la arquitectura antigua es innegable.",
+    "synonym": "Hermosura"
+  },
+  {
+    "word": "Yacer",
+    "definition": "Estar echada o tendida una persona; estar un cuerpo muerto.",
+    "example": "El antiguo guerrero yace en su tumba de piedra.",
+    "synonym": "Reposar"
+  },
+  {
+    "word": "Zarzal",
+    "definition": "Lugar lleno de zarzas (arbustos espinosos).",
+    "example": "Tuvimos que abrirnos paso a través de un denso zarzal.",
+    "synonym": "Espinar"
+  },
+  {
+    "word": "Añagaza",
+    "definition": "Artificio o engaño para atraer con dolo.",
+    "example": "Usó una añagaza para que su rival revelara sus planes.",
+    "synonym": "Engaño"
+  },
+  {
+    "word": "Borrasca",
+    "definition": "Tempestad del mar; figurativamente, contrariedad o dificultad.",
+    "example": "El barco se preparó para enfrentar la borrasca en alta mar.",
+    "synonym": "Tempestad"
+  },
+  {
+    "word": "Circunspecto",
+    "definition": "Prudente ante las circunstancias, que mantiene la reserva y el decoro.",
+    "example": "El juez se mantuvo circunspecto durante todo el testimonio.",
+    "synonym": "Prudente"
+  },
+  {
+    "word": "Denuedo",
+    "definition": "Valor, esfuerzo, brío.",
+    "example": "El rescatista actuó con denuedo para salvar a las víctimas.",
+    "synonym": "Valor"
+  },
+  {
+    "word": "Erudito",
+    "definition": "Persona con un conocimiento profundo y especializado en una materia.",
+    "example": "El profesor es un erudito en historia medieval.",
+    "synonym": "Sabio"
+  },
+  {
+    "word": "Fugaz",
+    "definition": "Que dura por muy poco tiempo; veloz.",
+    "example": "El éxito de la canción fue fugaz, desapareció pronto de las listas.",
+    "synonym": "Breve"
+  },
+  {
+    "word": "Genuino",
+    "definition": "Auténtico, puro, verdadero.",
+    "example": "El cuadro resultó ser un Picasso genuino.",
+    "synonym": "Auténtico"
+  },
+  {
+    "word": "Heraldo",
+    "definition": "Persona que lleva un mensaje o noticia; precursor.",
+    "example": "El invierno fue el heraldo de las grandes nevadas.",
+    "synonym": "Mensajero"
+  },
+  {
+    "word": "Inasible",
+    "definition": "Que no se puede asir o coger; incomprensible.",
+    "example": "La idea de la eternidad es inasible para la mente humana.",
+    "synonym": "Incomprensible"
+  },
+  {
+    "word": "Jornada",
+    "definition": "Tiempo de duración del trabajo diario; viaje o camino que se hace en un día.",
+    "example": "La jornada laboral terminó a las seis de la tarde.",
+    "synonym": "Día de trabajo"
+  },
+  {
+    "word": "Lúgubre",
+    "definition": "Triste, sombrío, fúnebre.",
+    "example": "El antiguo cementerio tenía un aspecto lúgubre bajo la niebla.",
+    "synonym": "Triste"
+  },
+  {
+    "word": "Meticuloso",
+    "definition": "Que se detiene en los más pequeños detalles.",
+    "example": "El contable es muy meticuloso con todos los números.",
+    "synonym": "Detallista"
+  },
+  {
+    "word": "Nocivo",
+    "definition": "Dañino, perjudicial.",
+    "example": "Fumar es un hábito nocivo para la salud.",
+    "synonym": "Dañino"
+  },
+  {
+    "word": "Obnubilar",
+    "definition": "Ofuscar o cegar la razón o el entendimiento.",
+    "example": "La fama y la riqueza suelen obnubilar el juicio de las personas.",
+    "synonym": "Ofuscar"
+  },
+  {
+    "word": "Parábola",
+    "definition": "Narración breve y simbólica de la que se extrae una enseñanza moral.",
+    "example": "Jesús usaba parábolas para enseñar a la gente.",
+    "synonym": "Apólogo"
+  },
+  {
+    "word": "Quebrantar",
+    "definition": "Romper, separar con violencia; o, incumplir una ley o norma.",
+    "example": "El joven quebrantó la ley al conducir sin licencia.",
+    "synonym": "Infringir"
+  },
+  {
+    "word": "Reminiscencia",
+    "definition": "Recuerdo vago e impreciso de un hecho pasado.",
+    "example": "La vieja fotografía le trajo una dulce reminiscencia de su niñez.",
+    "synonym": "Recuerdo"
+  },
+  {
+    "word": "Socarronería",
+    "definition": "Burla disimulada, ironía solapada.",
+    "example": "Respondió a la pregunta con una sonrisa llena de socarronería.",
+    "synonym": "Ironía"
+  },
+  {
+    "word": "Tribulación",
+    "definition": "Pena, disgusto o aflicción moral.",
+    "example": "Pasó por muchas tribulaciones antes de encontrar la paz.",
+    "synonym": "Aflicción"
+  },
+  {
+    "word": "Ufanía",
+    "definition": "Arrogancia, presunción, vanidad.",
+    "example": "Su ufanía era evidente cada vez que hablaba de sus logros.",
+    "synonym": "Vanidad"
+  },
+  {
+    "word": "Vacilar",
+    "definition": "Dudar o titubear; moverse indeterminadamente.",
+    "example": "El testigo vaciló antes de responder la pregunta crucial.",
+    "synonym": "Dudar"
+  },
+  {
+    "word": "Yerto",
+    "definition": "Tieso, rígido.",
+    "example": "El cadáver se encontraba yerto por el frío.",
+    "synonym": "Rígido"
+  },
+  {
+    "word": "Zarpazo",
+    "definition": "Golpe dado con la zarpa o garra.",
+    "example": "El león intentó darle un zarpazo al antílope.",
+    "synonym": "Garrazo"
+  },
+  {
+    "word": "Abulia",
+    "definition": "Falta de voluntad o energía para hacer algo.",
+    "example": "Sufría de una abulia que le impedía levantarse de la cama.",
+    "synonym": "Desgana"
+  },
+  {
+    "word": "Baluarte",
+    "definition": "Muro o fortaleza; figurativamente, defensa o apoyo.",
+    "example": "El profesor era un baluarte de la educación pública en la ciudad.",
+    "synonym": "Defensa"
+  },
+  {
+    "word": "Céfiro",
+    "definition": "Viento suave y apacible.",
+    "example": "Un céfiro acariciaba las hojas de los árboles al atardecer.",
+    "synonym": "Brisa"
+  },
+  {
+    "word": "Dádiva",
+    "definition": "Cosa que se da gratuitamente; regalo.",
+    "example": "El filántropo repartió dádivas entre los más necesitados.",
+    "synonym": "Regalo"
+  },
+  {
+    "word": "Ermitaño",
+    "definition": "Persona que vive en soledad, apartada de la sociedad.",
+    "example": "El viejo ermitaño vivía en una cueva en lo alto de la montaña.",
+    "synonym": "Solitario"
+  },
+  {
+    "word": "Frívolo",
+    "definition": "Superficial, insustancial, poco serio.",
+    "example": "Sus comentarios frívolos sobre la crisis molestaron a muchos.",
+    "synonym": "Superficial"
+  },
+  {
+    "word": "Genuino",
+    "definition": "Auténtico, puro, verdadero.",
+    "example": "El vino de esta región es genuino y sin aditivos.",
+    "synonym": "Auténtico"
+  },
+  {
+    "word": "Hábito",
+    "definition": "Modo especial de proceder o comportarse, adquirido por repetición.",
+    "example": "Madrugar es un buen hábito para ser productivo.",
+    "synonym": "Costumbre"
+  },
+  {
+    "word": "Idilio",
+    "definition": "Relación amorosa breve y tierna; un suceso placentero y tranquilo.",
+    "example": "Pasaron un idilio de verano junto a la costa italiana.",
+    "synonym": "Romance"
+  },
+  {
+    "word": "Jerigonza",
+    "definition": "Lenguaje de mal gusto, difícil de entender, o lleno de términos técnicos innecesarios.",
+    "example": "El abogado usó una jerigonza legal que confundió al jurado.",
+    "synonym": "Jerga"
+  },
+  {
+    "word": "Laúd",
+    "definition": "Instrumento musical de cuerda pulsada, de forma ovalada.",
+    "example": "Tocaba melodías antiguas con su laúd en las tabernas.",
+    "synonym": "Instrumento"
+  },
+  {
+    "word": "Mórbido",
+    "definition": "Perteneciente o relativo a la enfermedad; que produce sensación de horror o desagrado.",
+    "example": "Tenía una fascinación mórbida por las historias de crímenes.",
+    "synonym": "Enfermizo"
+  },
+  {
+    "word": "Nómade",
+    "definition": "Que va de un lugar a otro sin establecer una residencia fija.",
+    "example": "Las tribus nómades del desierto viajan en busca de agua.",
+    "synonym": "Errante"
+  },
+  {
+    "word": "Ósculo",
+    "definition": "Beso de respeto o afecto.",
+    "example": "Le dio un ósculo en la frente a su hijo antes de dormir.",
+    "synonym": "Beso"
+  },
+  {
+    "word": "Prolijo",
+    "definition": "Largo, dilatado con exceso; o, cuidadoso y esmerado.",
+    "example": "Hizo un análisis prolijo, sin dejar ningún detalle suelto.",
+    "synonym": "Minucioso"
+  },
+  {
+    "word": "Quejumbroso",
+    "definition": "Que se queja con frecuencia y sin motivo justificado.",
+    "example": "El cliente quejumbroso siempre encontraba un defecto en el servicio.",
+    "synonym": "Llorón"
+  },
+  {
+    "word": "Remozar",
+    "definition": "Renovar, dar aspecto de nuevo a algo.",
+    "example": "Decidieron remozar la fachada del antiguo edificio.",
+    "synonym": "Renovar"
+  },
+  {
+    "word": "Sublime",
+    "definition": "Excelso, eminente, de elevación extraordinaria.",
+    "example": "El paisaje alpino era sublime, inspirando admiración.",
+    "synonym": "Magnífico"
+  },
+  {
+    "word": "Tramar",
+    "definition": "Idear y disponer con astucia y cautela la ejecución de algo.",
+    "example": "Los villanos se reunieron para tramar un nuevo plan de ataque.",
+    "synonym": "Conspirar"
+  },
+  {
+    "word": "Ubicuidad",
+    "definition": "Cualidad de estar presente en todas partes a la vez.",
+    "example": "La ubicuidad de la tecnología móvil es asombrosa.",
+    "synonym": "Omnipresencia"
+  },
+  {
+    "word": "Vituperio",
+    "definition": "Insulto, injuria; acción de vituperar.",
+    "example": "El discurso del opositor fue un vituperio constante al gobierno.",
+    "synonym": "Insulto"
+  },
+  {
+    "word": "Zozobrar",
+    "definition": "Dicho de una embarcación: Peligrar por la fuerza del viento; figurativamente, sentirse angustiado.",
+    "example": "El capitán temía que el viejo barco zozobrara en la tormenta.",
+    "synonym": "Hundirse"
+  },
+  {
+    "word": "Abulia",
+    "definition": "Falta de voluntad o energía para hacer algo.",
+    "example": "Sufría de una abulia que le impedía levantarse de la cama.",
+    "synonym": "Desgana"
+  },
+  {
+    "word": "Barahúnda",
+    "definition": "Ruido y confusión grandes.",
+    "example": "La barahúnda en el mercado era ensordecedora.",
+    "synonym": "Confusión"
+  },
+  {
+    "word": "Cleptomanía",
+    "definition": "Impulso irresistible y patológico a robar.",
+    "example": "El diagnóstico reveló que el joven padecía de cleptomanía.",
+    "synonym": "Robo compulsivo"
+  },
+  {
+    "word": "Dechado",
+    "definition": "Modelo o ejemplar digno de ser imitado.",
+    "example": "Era un dechado de virtudes y bondad.",
+    "synonym": "Modelo"
+  },
+  {
+    "word": "Efervescencia",
+    "definition": "Producción de burbujas en un líquido; figurativamente, gran agitación.",
+    "example": "La ciudad vivía una efervescencia cultural después del festival.",
+    "synonym": "Agitación"
+  },
+  {
+    "word": "Fárrago",
+    "definition": "Acumulación de cosas heterogéneas o inútiles, generalmente confusa.",
+    "example": "El documento era un fárrago de leyes antiguas y obsoletas.",
+    "synonym": "Acumulación"
+  },
+  {
+    "word": "Genuino",
+    "definition": "Auténtico, puro, verdadero.",
+    "example": "El relato del testigo parecía ser genuino y sincero.",
+    "synonym": "Verdadero"
+  },
+  {
+    "word": "Heraldo",
+    "definition": "Persona que lleva un mensaje o noticia; precursor.",
+    "example": "La primavera fue el heraldo de una cosecha abundante.",
+    "synonym": "Precursor"
+  },
+  {
+    "word": "Idolatría",
+    "definition": "Adoración de ídolos; amor o admiración excesiva por alguien o algo.",
+    "example": "La idolatría de la sociedad por las celebridades es preocupante.",
+    "synonym": "Adoración"
+  },
+  {
+    "word": "Jovial",
+    "definition": "Alegre, festivo, de carácter desenfadado.",
+    "example": "El ambiente de la fiesta era jovial y relajado.",
+    "synonym": "Alegre"
+  },
+  {
+    "word": "Lascivia",
+    "definition": "Propensión a los deleites carnales.",
+    "example": "La obra de arte fue criticada por su excesiva lascivia.",
+    "synonym": "Lujuria"
+  },
+  {
+    "word": "Menoscabo",
+    "definition": "Disminución, deterioro, o perjuicio que se causa a algo.",
+    "example": "La falta de mantenimiento causó un menoscabo en el valor de la propiedad.",
+    "synonym": "Deterioro"
+  },
+  {
+    "word": "Nadir",
+    "definition": "Punto de la esfera celeste diametralmente opuesto al cénit; punto más bajo.",
+    "example": "Su carrera alcanzó su nadir tras el escándalo financiero.",
+    "synonym": "Punto más bajo"
+  },
+  {
+    "word": "Onírico",
+    "definition": "Perteneciente o relativo a los sueños.",
+    "example": "La película tenía una atmósfera onírica y surrealista.",
+    "synonym": "Súper"
+  },
+  {
+    "word": "Patrimonio",
+    "definition": "Conjunto de bienes que una persona posee.",
+    "example": "El templo es considerado patrimonio de la humanidad por la UNESCO.",
+    "synonym": "Herencia"
+  },
+  {
+    "word": "Quiebro",
+    "definition": "Movimiento o giro brusco del cuerpo; cambio inesperado.",
+    "example": "Hizo un quiebro rápido para esquivar al defensor.",
+    "synonym": "Giro"
+  },
+  {
+    "word": "Reticente",
+    "definition": "Reservado, desconfiado; que no dice todo lo que piensa o sabe.",
+    "example": "El testigo se mostró reticente a dar más detalles sobre el incidente.",
+    "synonym": "Reservado"
+  },
+  {
+    "word": "Subyugar",
+    "definition": "Someter o dominar por la fuerza; cautivar o dominar el ánimo.",
+    "example": "El emperador logró subyugar a las tribus rebeldes.",
+    "synonym": "Someter"
+  },
+  {
+    "word": "Transmutar",
+    "definition": "Transformar algo en otra cosa.",
+    "example": "El alquimista intentó transmutar el plomo en oro.",
+    "synonym": "Transformar"
+  },
+  {
+    "word": "Utopista",
+    "definition": "Partidario de las utopías, soñador o idealista.",
+    "example": "El político era un utopista que creía en la posibilidad de la paz mundial.",
+    "synonym": "Idealista"
+  },
+  {
+    "word": "Vehemencia",
+    "definition": "Pasión, ardor o ímpetu con que se ejecuta o se siente algo.",
+    "example": "Defendió sus ideas con gran vehemencia y convicción.",
+    "synonym": "Pasión"
+  },
+  {
+    "word": "Yermo",
+    "definition": "Dicho de una tierra: no cultivada; deshabitado.",
+    "example": "El explorador cruzó un páramo yermo y sin vida.",
+    "synonym": "Desolado"
+  },
+  {
+    "word": "Zagal",
+    "definition": "Muchacho, joven, mozo.",
+    "example": "El zagal ayudaba a su padre con las tareas del campo.",
+    "synonym": "Joven"
+  },
+  {
+    "word": "Alegoría",
+    "definition": "Ficción en virtud de la cual una cosa representa o significa otra diferente.",
+    "example": "La obra de teatro era una alegoría sobre la tiranía.",
+    "synonym": "Símbolo"
+  },
+  {
+    "word": "Blasfemia",
+    "definition": "Palabra o expresión injuriosa contra Dios o las cosas sagradas.",
+    "example": "Su comentario fue considerado una blasfemia por los fieles.",
+    "synonym": "Sacrilegio"
+  },
+  {
+    "word": "Conjetura",
+    "definition": "Juicio que se forma de algo por indicios u observaciones.",
+    "example": "El detective solo tenía conjeturas, no pruebas sólidas.",
+    "synonym": "Suposición"
+  },
+  {
+    "word": "Denostar",
+    "definition": "Injuriar gravemente de palabra.",
+    "example": "Los manifestantes salieron a denostar las nuevas políticas del gobierno.",
+    "synonym": "Insultar"
+  },
+  {
+    "word": "Elucubrar",
+    "definition": "Elaborar una idea o teoría de manera laboriosa y con detenimiento.",
+    "example": "Pasó la noche elucubrando sobre la solución al problema.",
+    "synonym": "Meditar"
+  },
+  {
+    "word": "Frenético",
+    "definition": "Furioso, rabioso; muy agitado o excitado.",
+    "example": "La gente bailaba con un ritmo frenético en el festival.",
+    "synonym": "Furioso"
+  },
+  {
+    "word": "Glosar",
+    "definition": "Comentar o interpretar un texto; censurar o criticar.",
+    "example": "El profesor se dedicó a glosar los versos del poema épico.",
+    "synonym": "Comentar"
+  },
+  {
+    "word": "Heterogéneo",
+    "definition": "Formado por partes de diversa naturaleza.",
+    "example": "El grupo de turistas era muy heterogéneo, con personas de todas las edades.",
+    "synonym": "Diverso"
+  },
+  {
+    "word": "Imberbe",
+    "definition": "Dicho de una persona: que todavía no tiene barba.",
+    "example": "El muchacho era imberbe y aparentaba menos edad de la que tenía.",
+    "synonym": "Joven"
+  },
+  {
+    "word": "Jubileo",
+    "definition": "Concesión de indulgencia plenaria que se otorga en ciertas ocasiones solemnes.",
+    "example": "El Papa anunció un año de jubileo para los fieles.",
+    "synonym": "Celebración"
+  },
+  {
+    "word": "Languidez",
+    "definition": "Falta de vigor o energía; debilidad.",
+    "example": "Sentía una gran languidez después de la larga enfermedad.",
+    "synonym": "Debilidad"
+  },
+  {
+    "word": "Misericordia",
+    "definition": "Compasión que se tiene del dolor ajeno.",
+    "example": "Pidió misericordia al juez después de confesar su crimen.",
+    "synonym": "Compasión"
+  },
+  {
+    "word": "Nefasto",
+    "definition": "Día o época de mal recuerdo; desgraciado, funesto.",
+    "example": "El año del terremoto fue nefasto para la economía del país.",
+    "synonym": "Desgraciado"
+  },
+  {
+    "word": "Ostensible",
+    "definition": "Manifiesto, claro, que puede verse o percibirse.",
+    "example": "La mejoría del paciente fue ostensible después de la terapia.",
+    "synonym": "Manifiesto"
+  },
+  {
+    "word": "Papiro",
+    "definition": "Lámina hecha de la planta del mismo nombre, usada para escribir en la antigüedad.",
+    "example": "Los arqueólogos descubrieron un papiro egipcio con jeroglíficos.",
+    "synonym": "Manuscrito"
+  },
+  {
+    "word": "Quimera",
+    "definition": "Sueño o ilusión que es producto de la imaginación y se considera irrealizable.",
+    "example": "Perseguir un ideal inalcanzable es una quimera.",
+    "synonym": "Fantasía"
+  },
+  {
+    "word": "Revocar",
+    "definition": "Dejar sin efecto una concesión, un mandato o una resolución.",
+    "example": "El tribunal decidió revocar la sentencia anterior.",
+    "synonym": "Anular"
+  },
+  {
+    "word": "Subversivo",
+    "definition": "Que intenta alterar el orden social o político establecido.",
+    "example": "El grupo fue acusado de realizar actividades subversivas contra el gobierno.",
+    "synonym": "Revolucionario"
+  },
+  {
+    "word": "Trascender",
+    "definition": "Superar los límites de lo real o de lo conocido; ir más allá.",
+    "example": "Su influencia logró trascender las fronteras del país.",
+    "synonym": "Superar"
+  },
+  {
+    "word": "Urgir",
+    "definition": "Instar con ahínco a alguien a que haga algo.",
+    "example": "El jefe urgió a los empleados a terminar el proyecto a tiempo.",
+    "synonym": "Apremiar"
+  },
+  {
+    "word": "Vigilia",
+    "definition": "Estado de quien está despierto; noche en que no se duerme.",
+    "example": "Pasó la vigilia de Navidad rezando en la iglesia.",
+    "synonym": "Vela"
+  },
+  {
+    "word": "Yelmo",
+    "definition": "Parte de la armadura que cubría y protegía la cabeza y el rostro.",
+    "example": "El caballero se puso el yelmo antes de la justa.",
+    "synonym": "Casco"
+  },
+  {
+    "word": "Zafio",
+    "definition": "Tosco, grosero, sin pulimento.",
+    "example": "Sus modales zafios desentonaban en la elegante recepción.",
+    "synonym": "Grosero"
+  },
+  {
+    "word": "Axioma",
+    "definition": "Proposición tan clara y evidente que se admite sin necesidad de demostración.",
+    "example": "Que el todo es mayor que la parte es un axioma matemático.",
+    "synonym": "Principio"
+  },
+  {
+    "word": "Boato",
+    "definition": "Lujo, ostentación y riqueza.",
+    "example": "La boda se celebró con gran boato y una orquesta de cien músicos.",
+    "synonym": "Lujo"
+  },
+  {
+    "word": "Cólera",
+    "definition": "Ira, enojo, enfado violento.",
+    "example": "Su rostro enrojeció de cólera ante la ofensa.",
+    "synonym": "Ira"
+  },
+  {
+    "word": "Dechado",
+    "definition": "Modelo o ejemplar digno de ser imitado.",
+    "example": "Era un dechado de honradez en su profesión.",
+    "synonym": "Ejemplo"
+  },
+  {
+    "word": "Escéptico",
+    "definition": "Que duda o desconfía de la verdad o eficacia de algo.",
+    "example": "El científico se mostró escéptico ante los resultados del estudio.",
+    "synonym": "Dudoso"
+  },
+  {
+    "word": "Frugal",
+    "definition": "Moderado en comer o beber; sobrio.",
+    "example": "Su dieta era frugal, compuesta principalmente de verduras y agua.",
+    "synonym": "Sobrio"
+  },
+  {
+    "word": "Grácil",
+    "definition": "Delgado, menudo y armonioso; que tiene gracia.",
+    "example": "La bailarina ejecutó un movimiento grácil y elegante.",
+    "synonym": "Elegante"
+  },
+  {
+    "word": "Hacinamiento",
+    "definition": "Acción y efecto de amontonar, acumular o juntar sin orden.",
+    "example": "Las condiciones de hacinamiento en el refugio eran preocupantes.",
+    "synonym": "Agrupamiento"
+  },
+  {
+    "word": "Ignoto",
+    "definition": "No conocido ni descubierto.",
+    "example": "El explorador se adentró en una selva ignota y peligrosa.",
+    "synonym": "Desconocido"
+  },
+  {
+    "word": "Jergón",
+    "definition": "Colchón de paja o heno; cama tosca.",
+    "example": "Durmió en un jergón incómodo en la antigua posada.",
+    "synonym": "Colchón"
+  },
+  {
+    "word": "Laudable",
+    "definition": "Digno de alabanza.",
+    "example": "Su esfuerzo por ayudar a los demás es una actitud laudable.",
+    "synonym": "Elogiable"
+  },
+  {
+    "word": "Místico",
+    "definition": "Relativo a los misterios de la fe; o, que expresa una unión con Dios.",
+    "example": "Tuvo una experiencia mística durante su meditación.",
+    "synonym": "Espiritual"
+  },
+  {
+    "word": "Nexo",
+    "definition": "Lazo o vínculo; conexión o unión.",
+    "example": "No encontraron ningún nexo entre los dos crímenes.",
+    "synonym": "Vínculo"
+  },
+  {
+    "word": "Obsequio",
+    "definition": "Regalo o presente; cortesía o muestra de respeto.",
+    "example": "Le entregó un pequeño obsequio como muestra de agradecimiento.",
+    "synonym": "Regalo"
+  },
+  {
+    "word": "Perplejo",
+    "definition": "Dudoso, incierto, confuso.",
+    "example": "El anuncio dejó a todos los presentes perplejos y sin palabras.",
+    "synonym": "Confuso"
+  },
+  {
+    "word": "Quiebra",
+    "definition": "Rotura, fractura; bancarrota.",
+    "example": "La empresa entró en quiebra tras perder su mayor contrato.",
+    "synonym": "Bancarrota"
+  },
+  {
+    "word": "Resarcir",
+    "definition": "Indemnizar, reparar, compensar un daño o perjuicio.",
+    "example": "El seguro se comprometió a resarcir todos los daños causados por la inundación.",
+    "synonym": "Compensar"
+  },
+  {
+    "word": "Subyacente",
+    "definition": "Que yace o está debajo; oculto o implícito.",
+    "example": "El problema subyacente de la crisis era la corrupción política.",
+    "synonym": "Implícito"
+  },
+  {
+    "word": "Trillado",
+    "definition": "Dicho de un tema: muy usado o conocido; trivial.",
+    "example": "El argumento de la película era muy trillado y predecible.",
+    "synonym": "Trivial"
+  },
+  {
+    "word": "Usura",
+    "definition": "Interés excesivo en un préstamo.",
+    "example": "El prestamista fue acusado de usura por cobrar intereses altísimos.",
+    "synonym": "Interés excesivo"
+  },
+  {
+    "word": "Verbigracia",
+    "definition": "Por ejemplo.",
+    "example": "Necesitas más práctica en verbos, verbigracia, los irregulares.",
+    "synonym": "Por ejemplo"
+  },
+  {
+    "word": "Yugo",
+    "definition": "Instrumento de madera para uncir; figurativamente, dominación o sujeción.",
+    "example": "La nación luchó por liberarse del yugo de la dictadura.",
+    "synonym": "Dominación"
+  },
+  {
+    "word": "Zarpar",
+    "definition": "Dicho de una embarcación: levar anclas y salir del puerto.",
+    "example": "El crucero zarpará del puerto al atardecer.",
+    "synonym": "Partir"
+  },
+  {
+    "word": "Acepción",
+    "definition": "Cada uno de los significados de una palabra, según los contextos en que se use.",
+    "example": "La palabra 'banco' tiene varias acepciones, incluyendo asiento y entidad financiera.",
+    "synonym": "Significado"
+  },
+  {
+    "word": "Bagaje",
+    "definition": "Conjunto de cosas que se lleva en un viaje; figurativamente, conjunto de conocimientos.",
+    "example": "Su bagaje cultural le permitió entender fácilmente la historia.",
+    "synonym": "Conocimiento"
+  },
+  {
+    "word": "Cisma",
+    "definition": "División o separación en el seno de una iglesia o grupo.",
+    "example": "El cisma en el partido político llevó a la formación de dos facciones.",
+    "synonym": "División"
+  },
+  {
+    "word": "Denostar",
+    "definition": "Injuriar gravemente de palabra.",
+    "example": "Los críticos denostaron la nueva película por su mala calidad.",
+    "synonym": "Criticar"
+  },
+  {
+    "word": "Escarnio",
+    "definition": "Burla o mofa humillante.",
+    "example": "Fue objeto de escarnio público tras el escándalo.",
+    "synonym": "Burla"
+  },
+  {
+    "word": "Fértil",
+    "definition": "Capaz de producir, que produce mucho.",
+    "example": "El valle es conocido por su tierra fértil y su abundante cosecha.",
+    "synonym": "Productivo"
+  },
+  {
+    "word": "Germen",
+    "definition": "Parte de la semilla que se desarrolla y da origen a la planta; origen de algo.",
+    "example": "Esa pequeña protesta fue el germen de una gran revolución.",
+    "synonym": "Origen"
+  },
+  {
+    "word": "Holístico",
+    "definition": "Perteneciente o relativo al holismo (doctrina que considera el todo como más que la suma de sus partes).",
+    "example": "La medicina holística trata al paciente como un todo, no solo la enfermedad.",
+    "synonym": "Global"
+  },
+  {
+    "word": "Inconexo",
+    "definition": "Que carece de conexión, relación o coherencia.",
+    "example": "Su discurso fue inconexo y difícil de seguir.",
+    "synonym": "Incoherente"
+  },
+  {
+    "word": "Jactancioso",
+    "definition": "Que se jacta (se alaba de forma presuntuosa y exagerada).",
+    "example": "Su tono jactancioso molestaba a la gente humilde.",
+    "synonym": "Presumido"
+  },
+  {
+    "word": "Lóbrego",
+    "definition": "Oscuro, sombrío y triste.",
+    "example": "El callejón era lóbrego e inspiraba miedo.",
+    "synonym": "Sombrío"
+  },
+  {
+    "word": "Mote",
+    "definition": "Apodo o sobrenombre.",
+    "example": "Su mote en el colegio era 'El Sabio' por su inteligencia.",
+    "synonym": "Apodo"
+  },
+  {
+    "word": "Nupcias",
+    "definition": "Casamiento o boda.",
+    "example": "Las nupcias se celebraron en una antigua iglesia colonial.",
+    "synonym": "Boda"
+  },
+  {
+    "word": "Oprobio",
+    "definition": "Deshonra pública; ignominia.",
+    "example": "El escándalo fue un oprobio para toda su familia.",
+    "synonym": "Deshonra"
+  },
+  {
+    "word": "Pétalo",
+    "definition": "Hoja transformada, por lo común de colores vistosos, que forma la corola de una flor.",
+    "example": "Los pétalos de la flor se marchitaron rápidamente.",
+    "synonym": "Hoja floral"
+  },
+  {
+    "word": "Querella",
+    "definition": "Discordia, disputa, riña; o, acusación penal.",
+    "example": "Presentó una querella contra su vecino por daños a la propiedad.",
+    "synonym": "Disputa"
+  },
+  {
+    "word": "Resplandor",
+    "definition": "Luz muy viva que despide o refleja un cuerpo.",
+    "example": "El resplandor del sol naciente era cegador.",
+    "synonym": "Brillo"
+  },
+  {
+    "word": "Sumergir",
+    "definition": "Introducir algo completamente en un líquido.",
+    "example": "Sumergió el pañuelo en el agua para limpiarlo.",
+    "synonym": "Hundir"
+  },
+  {
+    "word": "Tétrico",
+    "definition": "Triste, melancólico, sombrío.",
+    "example": "El paisaje después de la tormenta era tétrico y desolador.",
+    "synonym": "Fúnebre"
+  },
+  {
+    "word": "Unísono",
+    "definition": "Dicho de varias voces o instrumentos: que tienen el mismo tono; a la vez.",
+    "example": "La multitud gritó el eslogan al unísono.",
+    "synonym": "Al mismo tiempo"
+  },
+  {
+    "word": "Veraz",
+    "definition": "Que dice, usa o profesa siempre la verdad.",
+    "example": "El informe presentado fue completamente veraz y objetivo.",
+    "synonym": "Sincero"
+  },
+  {
+    "word": "Yacimiento",
+    "definition": "Lugar donde se halla naturalmente una roca, un mineral o un fósil.",
+    "example": "El yacimiento de petróleo en el mar es muy extenso.",
+    "synonym": "Reserva"
+  },
+  {
+    "word": "Zarpazo",
+    "definition": "Golpe dado con la zarpa o garra.",
+    "example": "El zarpazo del tigre fue mortal para su presa.",
+    "synonym": "Garrazo"
+  },
+  {
+    "word": "Arcaico",
+    "definition": "Muy antiguo o anticuado.",
+    "example": "El lenguaje usado en ese documento resulta ya arcaico.",
+    "synonym": "Anticuado"
+  },
+  {
+    "word": "Bruñir",
+    "definition": "Sacar brillo o pulir una superficie.",
+    "example": "El orfebre se dedicó a bruñir el anillo de plata.",
+    "synonym": "Pulir"
+  },
+  {
+    "word": "Cólera",
+    "definition": "Ira, enojo, enfado violento.",
+    "example": "Sintió una cólera profunda al ser traicionado.",
+    "synonym": "Ira"
+  },
+  {
+    "word": "Disperso",
+    "definition": "Separado, diseminado; con falta de concentración.",
+    "example": "Las ovejas se quedaron dispersas por todo el campo.",
+    "synonym": "Diseminado"
+  },
+  {
+    "word": "Éxodo",
+    "definition": "Emigración de un pueblo o de una muchedumbre de personas.",
+    "example": "El éxodo rural vació muchos pueblos pequeños.",
+    "synonym": "Emigración"
+  },
+  {
+    "word": "Fútil",
+    "definition": "De poco aprecio o importancia.",
+    "example": "Se preocupan por asuntos fútiles en lugar de los importantes.",
+    "synonym": "Trivial"
+  },
+  {
+    "word": "Gárrulo",
+    "definition": "Muy hablador, charlatán.",
+    "example": "El loro gárrulo no dejaba de repetir frases.",
+    "synonym": "Charlatán"
+  },
+  {
+    "word": "Hético",
+    "definition": "Sumamente delgado, extenuado.",
+    "example": "El hombre se veía hético después de la larga enfermedad.",
+    "synonym": "Esquelético"
+  },
+  {
+    "word": "Ímpetu",
+    "definition": "Movimiento acelerado y violento; o, brío y vehemencia.",
+    "example": "El orador habló con gran ímpetu, movilizando a la audiencia.",
+    "synonym": "Vehemencia"
+  },
+  {
+    "word": "Jocoso",
+    "definition": "Gracioso, chistoso, festivo.",
+    "example": "El payaso hizo un espectáculo muy jocoso.",
+    "synonym": "Festivo"
+  },
+  {
+    "word": "Languidez",
+    "definition": "Falta de vigor o energía; debilidad.",
+    "example": "El calor extremo causaba languidez en los trabajadores.",
+    "synonym": "Debilidad"
+  },
+  {
+    "word": "Monotonía",
+    "definition": "Uniformidad o igualdad de tono en quien habla; falta de variedad.",
+    "example": "La monotonía del trabajo diario lo estaba deprimiendo.",
+    "synonym": "Uniformidad"
+  },
+  {
+    "word": "Nefario",
+    "definition": "Sumamente malvado, impío.",
+    "example": "El tirano era conocido por sus planes nefarios.",
+    "synonym": "Perverso"
+  },
+  {
+    "word": "Obsoleto",
+    "definition": "Anticuado o inadecuado a las circunstancias, ya en desuso.",
+    "example": "Ese modelo de teléfono es totalmente obsoleto.",
+    "synonym": "Anticuado"
+  },
+  {
+    "word": "Pernicioso",
+    "definition": "Gravemente dañoso y perjudicial.",
+    "example": "La droga tiene un efecto pernicioso en el organismo.",
+    "synonym": "Nocivo"
+  },
+  {
+    "word": "Quejido",
+    "definition": "Sonido que expresa dolor, pena o molestia.",
+    "example": "Se escuchaba el quejido del herido en la oscuridad.",
+    "synonym": "Gemido"
+  },
+  {
+    "word": "Retozar",
+    "definition": "Jugar con alegría, saltar y brincar.",
+    "example": "Los cachorros retozaban en el césped del jardín.",
+    "synonym": "Jugar"
+  },
+  {
+    "word": "Súbito",
+    "definition": "Imprevisto, repentino.",
+    "example": "El cambio súbito de temperatura causó un resfriado.",
+    "synonym": "Inesperado"
+  },
+  {
+    "word": "Transigir",
+    "definition": "Consentir en parte con lo que no se cree justo, razonable o verdadero.",
+    "example": "Para llegar a un acuerdo, las partes tuvieron que transigir.",
+    "synonym": "Ceder"
+  },
+  {
+    "word": "Urente",
+    "definition": "Que quema o escuece; figurativamente, muy vivo o intenso.",
+    "example": "El deseo de venganza era urente en su corazón.",
+    "synonym": "Abrasador"
+  },
+  {
+    "word": "Vituperar",
+    "definition": "Criticar con dureza y desaprobación a alguien o algo.",
+    "example": "El periódico dedicó su portada a vituperar al funcionario corrupto.",
+    "synonym": "Censurar"
+  },
+  {
+    "word": "Xilografía",
+    "definition": "Arte de grabar en madera.",
+    "example": "El libro estaba ilustrado con hermosas xilografías.",
+    "synonym": "Grabado"
+  },
+  {
+    "word": "Zafio",
+    "definition": "Tosco, grosero, sin pulimento.",
+    "example": "Su comentario zafio en la reunión fue muy inoportuno.",
+    "synonym": "Vulgar"
+  },
+  {
+    "word": "Absorto",
+    "definition": "Admirado, pasmado; entregado totalmente a una meditación o pensamiento.",
+    "example": "Se quedó absorto mirando la obra de arte en el museo.",
+    "synonym": "Concentrado"
+  },
+  {
+    "word": "Bello",
+    "definition": "Que, por la perfección de sus formas, complace a la vista o al oído.",
+    "example": "Vimos un bello atardecer en la playa.",
+    "synonym": "Hermoso"
+  },
+  {
+    "word": "Crucial",
+    "definition": "Perteneciente o relativo a la cruz; o, muy importante, decisivo.",
+    "example": "Tomar esa decisión fue crucial para el futuro de la empresa.",
+    "synonym": "Decisivo"
+  },
+  {
+    "word": "Dilación",
+    "definition": "Retraso, demora o tardanza en el cumplimiento de algo.",
+    "example": "La dilación en el pago de la deuda generó intereses adicionales.",
+    "synonym": "Retraso"
+  },
+  {
+    "word": "Eminente",
+    "definition": "Alto, elevado, superior; que sobresale por su mérito o calidad.",
+    "example": "Fue un científico eminente en el campo de la física nuclear.",
+    "synonym": "Notable"
+  },
+  {
+    "word": "Frágil",
+    "definition": "Quebradizo, delicado, que puede romperse fácilmente.",
+    "example": "El cristal es un material muy frágil.",
+    "synonym": "Delicado"
+  },
+  {
+    "word": "Gracia",
+    "definition": "Cualidad o conjunto de cualidades que hacen agradable a quien las tiene.",
+    "example": "Bailaba con una gracia y elegancia natural.",
+    "synonym": "Encanto"
+  },
+  {
+    "word": "Hipótesis",
+    "definition": "Suposición de algo posible para sacar de ello una consecuencia.",
+    "example": "El investigador formuló una nueva hipótesis sobre el origen del virus.",
+    "synonym": "Suposición"
+  },
+  {
+    "word": "Idóneo",
+    "definition": "Adecuado y apropiado para algo.",
+    "example": "Es el candidato idóneo para el puesto de gerente.",
+    "synonym": "Adecuado"
+  },
+  {
+    "word": "Junco",
+    "definition": "Planta de tallos cilíndricos, usada para cestería.",
+    "example": "Las aves tejían sus nidos entre los juncos del río.",
+    "synonym": "Planta"
+  },
+  {
+    "word": "Lánguido",
+    "definition": "Flaco, débil, fatigado; de poco vigor.",
+    "example": "Le dio un saludo lánguido, mostrando su fatiga.",
+    "synonym": "Débil"
+  },
+  {
+    "word": "Motejar",
+    "definition": "Poner mote; tildar a alguien de algo, especialmente de un vicio o defecto.",
+    "example": "Los críticos comenzaron a motejar su trabajo de superficial.",
+    "synonym": "Tildar"
+  },
+  {
+    "word": "Nuncio",
+    "definition": "Mensajero; embajador de la Santa Sede.",
+    "example": "El nuncio apostólico visitó la capital para reunirse con el presidente.",
+    "synonym": "Mensajero"
+  },
+  {
+    "word": "Ocaso",
+    "definition": "Puesta del sol; figurativamente, declinación o fin de algo.",
+    "example": "La civilización romana entró en su ocaso lentamente.",
+    "synonym": "Fin"
+  },
+  {
+    "word": "Peculiar",
+    "definition": "Propio o privativo de cada persona o cosa; que no es común.",
+    "example": "Tiene una forma de vestir muy peculiar y original.",
+    "synonym": "Singular"
+  },
+  {
+    "word": "Quid",
+    "definition": "Esencia, punto clave o razón fundamental de algo.",
+    "example": "La protección del testigo era el quid del caso.",
+    "synonym": "Esencia"
+  },
+  {
+    "word": "Retórico",
+    "definition": "Artificioso o exagerado en el lenguaje.",
+    "example": "Evitó un lenguaje retórico, hablando de forma sencilla.",
+    "synonym": "Artificioso"
+  },
+  {
+    "word": "Sutileza",
+    "definition": "Delgadeza extrema; ingenio o agudeza en el entendimiento.",
+    "example": "El artista capturó la sutileza de la luz en la pintura.",
+    "synonym": "Delicadeza"
+  },
+  {
+    "word": "Tenue",
+    "definition": "Delgado, fino o débil.",
+    "example": "Una tenue luz se filtraba por la rendija de la puerta.",
+    "synonym": "Débil"
+  },
+  {
+    "word": "Utopía",
+    "definition": "Plan, proyecto, doctrina o sistema deseable que parece irrealizable.",
+    "example": "El socialismo perfecto es considerado por muchos como una utopía.",
+    "synonym": "Ideal"
+  },
+  {
+    "word": "Vigente",
+    "definition": "Que está en vigor y observancia.",
+    "example": "La ley de protección animal sigue vigente en todo el país.",
+    "synonym": "Válido"
+  },
+  {
+    "word": "Zarpar",
+    "definition": "Dicho de una embarcación: levar anclas y salir del puerto.",
+    "example": "El buque de guerra zarpó en misión secreta.",
+    "synonym": "Salir"
+  },
+  {
+    "word": "Audaz",
+    "definition": "Osado, atrevido.",
+    "example": "Su decisión audaz salvó a la compañía de la quiebra.",
+    "synonym": "Atrevido"
+  },
+  {
+    "word": "Bohemio",
+    "definition": "Dicho de un artista o intelectual: que lleva una vida desordenada, al margen de las convenciones.",
+    "example": "Llevaba una vida bohemia, escribiendo en cafés y sin horarios fijos.",
+    "synonym": "Inconvencional"
+  },
+  {
+    "word": "Concomitante",
+    "definition": "Que acompaña o se une a otra cosa.",
+    "example": "La fiebre es un síntoma concomitante de muchas infecciones.",
+    "synonym": "Asociado"
+  },
+  {
+    "word": "Desasosiego",
+    "definition": "Falta de sosiego o tranquilidad.",
+    "example": "La espera del resultado le causaba gran desasosiego.",
+    "synonym": "Inquietud"
+  },
+  {
+    "word": "Escabroso",
+    "definition": "Áspero, desigual; figurativamente, difícil o peligroso.",
+    "example": "El camino era escabroso, lleno de piedras y barro.",
+    "synonym": "Áspero"
+  },
+  {
+    "word": "Furtivo",
+    "definition": "Que se hace a escondidas.",
+    "example": "Se dieron un abrazo furtivo en medio de la multitud.",
+    "synonym": "Clandestino"
+  },
+  {
+    "word": "Genuino",
+    "definition": "Auténtico, puro, verdadero.",
+    "example": "El reloj era un ejemplar genuino del siglo pasado.",
+    "synonym": "Auténtico"
+  },
+  {
+    "word": "Hierático",
+    "definition": "Dicho de un estilo artístico: solemne y rígido, ajustado a normas fijas.",
+    "example": "La figura del faraón era hierática y majestuosa.",
+    "synonym": "Solemne"
+  },
+  {
+    "word": "Impávido",
+    "definition": "Libre de pavor, sereno ante el peligro.",
+    "example": "El bombero se mantuvo impávido frente a las llamas.",
+    "synonym": "Sereno"
+  },
+  {
+    "word": "Júbilo",
+    "definition": "Viva alegría, a veces ruidosa, que se manifiesta con signos exteriores.",
+    "example": "El anuncio provocó un júbilo generalizado en la plaza.",
+    "synonym": "Alegría"
+  },
+  {
+    "word": "Lascivo",
+    "definition": "Que tiene propensión a la lascivia.",
+    "example": "El comentario del hombre fue inapropiadamente lascivo.",
+    "synonym": "Lujurioso"
+  },
+  {
+    "word": "Meticuloso",
+    "definition": "Que se detiene en los más pequeños detalles.",
+    "example": "El científico era muy meticuloso en sus experimentos.",
+    "synonym": "Detallista"
+  },
+  {
+    "word": "Nefando",
+    "definition": "Indigno, torpe, malo, vergonzoso.",
+    "example": "El crimen fue un acto nefando que conmocionó a la comunidad.",
+    "synonym": "Horrendo"
+  },
+  {
+    "word": "Orondo",
+    "definition": "Hinchado, gordo; o, presuntuoso, lleno de vanidad.",
+    "example": "El hombre, orondo y satisfecho, se recostó en el sillón.",
+    "synonym": "Gordo"
+  },
+  {
+    "word": "Precepto",
+    "definition": "Orden o mandato impuesto o establecido por una autoridad.",
+    "example": "El respeto a los mayores es un precepto moral básico.",
+    "synonym": "Norma"
+  },
+  {
+    "word": "Quimérico",
+    "definition": "Fabuloso, fingido o imaginado sin fundamento.",
+    "example": "Buscar una solución perfecta es un objetivo quimérico.",
+    "synonym": "Irreal"
+  },
+  {
+    "word": "Redimir",
+    "definition": "Rescatar o sacar de la esclavitud; librar de una obligación.",
+    "example": "El héroe buscó redimir su error salvando a la gente.",
+    "synonym": "Rescatar"
+  },
+  {
+    "word": "Sempiterno",
+    "definition": "Que durará siempre; que no tendrá fin.",
+    "example": "Juraron amor sempiterno bajo la luz de la luna.",
+    "synonym": "Eterno"
+  },
+  {
+    "word": "Trémulo",
+    "definition": "Que tiembla o tiene un movimiento trémulo.",
+    "example": "Sus manos estaban trémulas por el miedo y la emoción.",
+    "synonym": "Tembloroso"
+  },
+  {
+    "word": "Usurpación",
+    "definition": "Acción y efecto de usurpar (apoderarse de un derecho o cargo sin legitimidad).",
+    "example": "El golpe de Estado fue visto como una usurpación de poder.",
+    "synonym": "Despojo"
+  },
+  {
+    "word": "Vívido",
+    "definition": "Intenso, vehemente; dicho de un recuerdo, muy claro.",
+    "example": "Tenía un recuerdo vívido del olor a pan recién hecho.",
+    "synonym": "Intenso"
+  },
+  {
+    "word": "Zagal",
+    "definition": "Muchacho, joven, mozo.",
+    "example": "El zagal del pueblo ayudaba al pastor con el ganado.",
+    "synonym": "Joven"
+  },
+  {
+    "word": "Acicate",
+    "definition": "Estímulo, incentivo; espuela con que se pica al caballo.",
+    "example": "El ascenso fue el acicate que necesitaba para trabajar más duro.",
+    "synonym": "Estímulo"
+  },
+  {
+    "word": "Bizarro",
+    "definition": "Valiente, arriesgado; en otro contexto, extraño o extravagante.",
+    "example": "El bizarro equipo de exploradores se adentró en la jungla.",
+    "synonym": "Valiente"
+  },
+  {
+    "word": "Contrición",
+    "definition": "Dolor y arrepentimiento de haber ofendido a Dios.",
+    "example": "Pidió perdón con sincera contrición por sus pecados.",
+    "synonym": "Arrepentimiento"
+  },
+  {
+    "word": "Devoción",
+    "definition": "Fervor y veneración religiosa; fervoroso amor por alguien o algo.",
+    "example": "Le profesaba una gran devoción a la música clásica.",
+    "synonym": "Fervor"
+  },
+  {
+    "word": "Exiguo",
+    "definition": "Muy poco, insuficiente.",
+    "example": "Recibió un salario exiguo que apenas le alcanzaba para vivir.",
+    "synonym": "Escaso"
+  },
+  {
+    "word": "Futilidad",
+    "definition": "Cualidad de fútil; poco aprecio o importancia.",
+    "example": "Discutían sobre la futilidad de la moda actual.",
+    "synonym": "Trivialidad"
+  },
+  {
+    "word": "Gregario",
+    "definition": "Dicho de un animal: que vive en rebaño; que le gusta vivir en grupo.",
+    "example": "El ser humano es por naturaleza un animal gregario.",
+    "synonym": "Sociable"
+  },
+  {
+    "word": "Hogaño",
+    "definition": "En este año; o, en el tiempo presente.",
+    "example": "Los problemas de hogaño son muy diferentes a los de antaño.",
+    "synonym": "Actualmente"
+  },
+  {
+    "word": "Ínclito",
+    "definition": "Ilustre, afamado, célebre.",
+    "example": "El ínclito poeta fue galardonado con el premio nacional.",
+    "synonym": "Célebre"
+  },
+  {
+    "word": "Jornada",
+    "definition": "Tiempo de duración del trabajo diario; viaje que se hace en un día.",
+    "example": "La jornada de trabajo se redujo a ocho horas.",
+    "synonym": "Día de trabajo"
+  },
+  {
+    "word": "Ludir",
+    "definition": "Rozar o frotar un cuerpo con otro.",
+    "example": "Las ramas de los árboles ludían con el tejado de la casa.",
+    "synonym": "Rozar"
+  },
+  {
+    "word": "Mofa",
+    "definition": "Burla y escarnio que se hace de alguien o de algo.",
+    "example": "Sus gestos eran de mofa hacia la autoridad.",
+    "synonym": "Burla"
+  },
+  {
+    "word": "Notorio",
+    "definition": "Público y sabido por todos; que se ve claramente.",
+    "example": "Su talento para la música es notorio en toda la escuela.",
+    "synonym": "Público"
+  },
+  {
+    "word": "Obtuso",
+    "definition": "Que no tiene punta; figurativamente, de poco entendimiento o torpe.",
+    "example": "La respuesta del alumno fue obtusa y demostró su falta de estudio.",
+    "synonym": "Torpe"
+  },
+  {
+    "word": "Perplejidad",
+    "definition": "Duda, incertidumbre, confusión.",
+    "example": "El acertijo llenó de perplejidad a los oyentes.",
+    "synonym": "Confusión"
+  },
+  {
+    "word": "Quórum",
+    "definition": "Número de individuos necesario para que un cuerpo deliberante tome ciertos acuerdos.",
+    "example": "Necesitamos un quórum de dos tercios para aprobar la moción.",
+    "synonym": "Mayoría"
+  },
+  {
+    "word": "Recabar",
+    "definition": "Conseguir algo que se desea con instancias o súplicas.",
+    "example": "Intentó recabar apoyo de sus colegas para la nueva propuesta.",
+    "synonym": "Solicitar"
+  },
+  {
+    "word": "Sinuoso",
+    "definition": "Que tiene senos, ondulaciones o recodos.",
+    "example": "El río seguía un curso sinuoso a través del valle.",
+    "synonym": "Ondulado"
+  },
+  {
+    "word": "Traslúcido",
+    "definition": "Que deja pasar la luz, pero no permite distinguir claramente los objetos.",
+    "example": "La ventana de la ducha era de cristal traslúcido.",
+    "synonym": "Semitransparente"
+  },
+  {
+    "word": "Ufano",
+    "definition": "Arrogante, presuntuoso; que está muy orgulloso de sí mismo.",
+    "example": "El ganador se mostró ufano ante la prensa.",
+    "synonym": "Orgulloso"
+  },
+  {
+    "word": "Vituperable",
+    "definition": "Digno de vituperio (censura o crítica).",
+    "example": "Su conducta fue vituperable y generó rechazo.",
+    "synonym": "Censurable"
+  },
+  {
+    "word": "Xenofobia",
+    "definition": "Fobia u odio hacia los extranjeros.",
+    "example": "La campaña política se basó en la xenofobia.",
+    "synonym": "Racismo"
+  }
+]
