@@ -6,7 +6,6 @@ import path from "path";
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 // --- Load Word Data ---
-// 1. **MODIFIED**: Changed file name to spanish_words.json
 const wordsFilePath = path.join(process.cwd(), "spanish_words.json");
 let wordData = [];
 
@@ -16,16 +15,14 @@ try {
   console.log(`Loaded ${wordData.length} total words from spanish_words.json.`);
 } catch (error) {
   console.error("ERROR: Could not load or parse spanish_words.json file.");
-  // Exit if the data file is missing or invalid
   process.exit(1);
 }
 
 // ---------------------
 //   HELPER FUNCTION TO GET RANDOM SPANISH WORD
 // ---------------------
-// 2. **MODIFIED**: Renamed function and removed language filter
 async function getRandomWord() {
-  const wordsForLang = wordData; // Use the entire loaded array
+  const wordsForLang = wordData;
 
   if (wordsForLang.length === 0) {
     console.error("No words found in the JSON file.");
@@ -34,6 +31,7 @@ async function getRandomWord() {
       definition: "No words available in the list.",
       example: "N/A",
       synonym: "N/A",
+      link: "#", // Add default link
     };
   }
 
@@ -46,6 +44,8 @@ async function getRandomWord() {
     definition: wordObject.definition,
     example: wordObject.example,
     synonym: wordObject.synonym,
+    // *** NEW: Include the link property ***
+    link: wordObject.link,
   };
 }
 
@@ -69,14 +69,16 @@ async function sendToDiscord(message) {
 //   MAIN MESSAGE BUILDER AND SENDER
 // ---------------------
 async function main() {
-  // 3. **MODIFIED**: Called the renamed function
   const spanish = await getRandomWord();
 
+  // *** MODIFIED MESSAGE TEMPLATE ***
   const message = `
-**🇪🇸 Palabra del Día en Español:**
-> **${spanish.word}**: ${spanish.definition}
-> **Sinónimos**: ${spanish.synonym}
-> **Ejemplo**: ${spanish.example}
+## <@&1444803066418171914> — __**[${spanish.word}](${spanish.link})**__
+> **Definition:** ${spanish.definition}
+> 
+> **Sinónimos:** ${spanish.synonym}
+> 
+> **Ejemplo:** ${spanish.example}
   `.trim();
 
   await sendToDiscord(message);
