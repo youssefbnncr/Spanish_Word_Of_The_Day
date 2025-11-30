@@ -73,10 +73,10 @@ async function main() {
   const spanish = await getRandomWord();
 
   const message = `
-**🇪🇸 Spanish Word Of The Day**
-**${spanish.word}**: ${spanish.definition}
-**Sinónimos**: ${spanish.synonym}
-**Ejemplo**: ${spanish.example}
+**🇪🇸 Palabra del Día en Español**
+**> ${spanish.word}**: ${spanish.definition}
+**> Sinónimos**: ${spanish.synonym}
+**> Ejemplo**: ${spanish.example}
   `.trim();
 
   await sendToDiscord(message);
