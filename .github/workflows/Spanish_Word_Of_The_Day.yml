@@ -21,6 +21,6 @@ jobs:
         run: npm install
 
       - name: Run script
-        run: node send_words.js
+        run: node spanish_bot.js
         env:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
